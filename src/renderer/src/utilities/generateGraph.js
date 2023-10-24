@@ -1,63 +1,9 @@
-const genObjTags = (parent, key, value) => {
-  if (typeof value === 'string') {
-    return [[parent, key, `"${value}"`]]
-  } else if (typeof value === 'number' || typeof value === 'boolean' || value === null) {
-    return [[parent, key, value]]
-  } else if (typeof value === 'object') {
-    let tags = []
-    if (Array.isArray(value)) {
-      // for (const [index, item] of value.entries()) {
-      //   tags.push(...genObjTags(parent, `${key}[${index}]`, item))
-      // }
-      for (const [, item] of value.entries()) {
-        tags.push(...genObjTags(parent, key, item))
-      }
-    } else {
-      for (const [objKey, objValue] of Object.entries(value)) {
-        const dot = parent != '' && objKey != '' ? '.' : ''
-        tags.push(...genObjTags(`${parent}${dot}${key}`, objKey, objValue))
-      }
-    }
-    return tags
-  }
-}
-
-function genObjArr(json, nameAttrib) {
-  const objArr = []
-  json.forEach((tagArr) => {
-    const newObj = {
-      name: '',
-      tags: []
-    }
-    genObjTags('', '', tagArr).forEach(([parent, key, value]) => {
-      const dot = parent != '' ? '.' : ''
-      if (value == '') {
-        value = null
-      }
-      if (`${parent}${dot}${key}` === nameAttrib) {
-        newObj.name = value.replace(/"/g, '')
-      }
-      const strTag = `${parent}${dot}${key}:${value}`
-      newObj.tags.push(strTag)
-    })
-    objArr.push(newObj)
-  })
-  return objArr
-}
-
-export default function generateGraph(json, nameAttrib) {
-  const objArr = genObjArr(json, nameAttrib)
-
-  const nodes = objArr.map((obj, index) => {
-    return {
-      id: index.toString(),
-      name: obj.name || index.toString()
-    }
-  })
+export default function generateGraph(objArr) {
   const links = []
   const tagsMap = {}
+  let nodeFiles = []
+  let nodeTags = []
 
-  // Generate tag map
   objArr.forEach((obj) => {
     obj.tags.forEach((tag) => {
       if (!tagsMap[tag]) {
@@ -67,22 +13,33 @@ export default function generateGraph(json, nameAttrib) {
     })
   })
 
-  // Generate link objects
-  Object.keys(tagsMap).forEach((tag) => {
-    const files = tagsMap[tag]
-    for (let i = 0; i < files.length; i++) {
-      const file1 = files[i]
-      for (let j = i + 1; j < files.length; j++) {
-        const file2 = files[j]
-        links.push({
-          source: nodes.find((node) => node.name === file1).id,
-          target: nodes.find((node) => node.name === file2).id,
-          label: tag
-        })
-      }
+  nodeFiles = objArr.map((obj, index) => {
+    return {
+      id: index.toString(),
+      name: obj.name || index.toString()
     }
   })
 
-  console.log(links)
+  nodeTags = Object.keys(tagsMap).map((tag, index) => {
+    return {
+      id: (index + nodeFiles.length).toString(),
+      name: tag
+    }
+  })
+
+  Object.keys(tagsMap).forEach((tag) => {
+    const currNodeTag = nodeTags.find((node) => node.name === tag)
+    const currNodeFiles = tagsMap[tag].map((filename) =>
+      nodeFiles.find((node) => node.name === filename)
+    )
+    currNodeFiles.forEach((currNodeFile) =>
+      links.push({
+        source: currNodeFile.id,
+        target: currNodeTag.id
+      })
+    )
+  })
+
+  const nodes = nodeFiles.concat(nodeTags)
   return { nodes, links }
 }
