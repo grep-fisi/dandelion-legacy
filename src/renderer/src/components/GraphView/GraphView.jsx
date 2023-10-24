@@ -126,7 +126,7 @@ export default function GraphView({ rawData }) {
 
   useEffect(() => {
     setTimeout(() => {
-      graphRef.current.zoomToFit(0, 100)
+      graphRef.current.zoomToFit(0, height / 10)
     }, 1)
   }, [data, height, width])
 
