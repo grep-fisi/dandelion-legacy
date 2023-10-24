@@ -2,13 +2,14 @@ import GraphView from './components/GraphView/GraphView'
 import { useEffect, useState } from 'react'
 import { useDisclosure } from '@mantine/hooks'
 import { Dialog, TextInput } from '@mantine/core'
-import files from './data/files.json'
+import files from './data/makeup_data.json'
+import genObjArr from './utilities/genObjArr'
 
 export default function App() {
   const [opened, { toggle, close }] = useDisclosure(false)
   const [placeholder, setPlaceholder] = useState('hola')
   const [input, setInput] = useState('')
-  const [data, setData] = useState(files)
+  const [rawData, setRawData] = useState(genObjArr(files, 'name'))
   const [invalid, setInvalid] = useState(false)
 
   // useEffect(() => {
@@ -53,13 +54,14 @@ export default function App() {
 
   const handleEnter = () => {
     if (input === '') {
-      setData(files)
+      setRawData(genObjArr(files, 'name'))
       return
     }
 
     const bodyStr = JSON.stringify({
       sets: getSets(input),
-      expr: input
+      expr: input,
+      files: genObjArr(files, 'name')
     })
 
     fetch('http://localhost:9090/api', {
@@ -74,7 +76,7 @@ export default function App() {
           setInvalid(true)
           return
         }
-        setData(res)
+        setRawData(res)
       })
     })
   }
@@ -102,7 +104,7 @@ export default function App() {
         />
       </Dialog>
 
-      <GraphView rawData={data} />
+      <GraphView rawData={rawData} />
     </>
   )
 }

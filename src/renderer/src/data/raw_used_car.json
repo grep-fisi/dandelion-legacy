@@ -1,0 +1,4272 @@
+[
+  {
+    "name": "2018 Daihatsu AYLA X 1.2",
+    "detail1": ["10.508 km", "Manual", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah"],
+    "price": "Rp 101.000.000 Rp 2,06 jt/bln",
+    "monthly": "Rp 2,06 jt/bln"
+  },
+  {
+    "name": "2015 Toyota AGYA TRD SPORTIVO 1.0",
+    "detail1": ["112.888 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 82.000.000 Rp 1,67 jt/bln",
+    "monthly": "Rp 1,67 jt/bln"
+  },
+  {
+    "name": "2015 Nissan X-TRAIL 2.5",
+    "detail1": ["118.429 km", "Automatic", "Surabaya"],
+    "detail2": ["Plat Ganjil", "360 Camera View", "Keyless Push Start"],
+    "price": "Rp 169.000.000 Rp 3,44 jt/bln",
+    "monthly": "Rp 3,44 jt/bln"
+  },
+  {
+    "name": "2020 Toyota YARIS S TRD 1.5",
+    "detail1": ["15.945 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Paddle Shift"],
+    "price": "Rp 218.000.000 Rp 4,44 jt/bln",
+    "monthly": "Rp 4,44 jt/bln"
+  },
+  {
+    "name": "2019 Toyota AGYA G 1.2",
+    "detail1": ["30.404 km", "Manual", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 117.000.000 Rp 2,38 jt/bln",
+    "monthly": "Rp 2,38 jt/bln"
+  },
+  {
+    "name": "2021 Toyota AVANZA G 1.3",
+    "detail1": ["17.306 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Retract Mirror"],
+    "price": "Rp 180.000.000 Rp 3,67 jt/bln",
+    "monthly": "Rp 3,67 jt/bln"
+  },
+  {
+    "name": "2022 Toyota AVANZA G 1.5",
+    "detail1": ["12.211 km", "Manual", "Surabaya"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Retract Mirror"],
+    "price": "Rp 211.000.000 Rp 4,30 jt/bln",
+    "monthly": "Rp 4,30 jt/bln"
+  },
+  {
+    "name": "2016 Mitsubishi OUTLANDER SPORT PX 2.0",
+    "detail1": ["126.885 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Panoramic Sun Roof", "Auto Retract Mirror"],
+    "price": "Rp 190.000.000 Rp 3,87 jt/bln",
+    "monthly": "Rp 3,87 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["33.464 km", "Manual", "Bandung"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 140.000.000 Rp 2,85 jt/bln",
+    "monthly": "Rp 2,85 jt/bln"
+  },
+  {
+    "name": "2021 Honda HR-V S 1.5",
+    "detail1": ["33.364 km", "Automatic", "Malang"],
+    "detail2": ["Plat Ganjil", "Electric Parking Brake", "Retract Mirror"],
+    "price": "Rp 248.000.000 Rp 5,05 jt/bln",
+    "monthly": "Rp 5,05 jt/bln"
+  },
+  {
+    "name": "2018 Toyota AGYA G TRD 1.2",
+    "detail1": ["44.969 km", "Manual", "Bandung"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 117.000.000 Rp 2,38 jt/bln",
+    "monthly": "Rp 2,38 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu AYLA R 1.2",
+    "detail1": ["43.292 km", "Manual", "Depok"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 114.000.000 Rp 2,32 jt/bln",
+    "monthly": "Rp 2,32 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu AYLA R 1.2",
+    "detail1": ["57.385 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 110.000.000 Rp 2,24 jt/bln",
+    "monthly": "Rp 2,24 jt/bln"
+  },
+  {
+    "name": "2017 Daihatsu AYLA R DLX 1.2",
+    "detail1": ["53.151 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 115.000.000 Rp 2,34 jt/bln",
+    "monthly": "Rp 2,34 jt/bln"
+  },
+  {
+    "name": "2019 Toyota AGYA G TRD 1.2",
+    "detail1": ["46.182 km", "Manual", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 118.000.000 Rp 2,40 jt/bln",
+    "monthly": "Rp 2,40 jt/bln"
+  },
+  {
+    "name": "2019 Wuling ALMAZ LT LUX 1.5",
+    "detail1": ["58.152 km", "Automatic", "Malang"],
+    "detail2": ["Plat Genap", "Auto Retract Mirror", "Panoramic Sun Roof"],
+    "price": "Rp 198.000.000 Rp 4,03 jt/bln",
+    "monthly": "Rp 4,03 jt/bln"
+  },
+  {
+    "name": "2015 Daihatsu TERIOS TX 1.5",
+    "detail1": ["118.704 km", "Manual", "Depok"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Map Navigator"],
+    "price": "Rp 141.000.000 Rp 2,87 jt/bln",
+    "monthly": "Rp 2,87 jt/bln"
+  },
+  {
+    "name": "2018 Toyota AGYA G TRD 1.2",
+    "detail1": ["78.385 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 117.000.000 Rp 2,38 jt/bln",
+    "monthly": "Rp 2,38 jt/bln"
+  },
+  {
+    "name": "2018 Honda MOBILIO E 1.5",
+    "detail1": ["45.376 km", "Manual", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 155.000.000 Rp 3,16 jt/bln",
+    "monthly": "Rp 3,16 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu AYLA R 1.2",
+    "detail1": ["37.343 km", "Manual", "Bogor"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 108.000.000 Rp 2,20 jt/bln",
+    "monthly": "Rp 2,20 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO RS 1.2",
+    "detail1": ["65.278 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Kamera Mundur", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 168.000.000 Rp 3,42 jt/bln",
+    "monthly": "Rp 3,42 jt/bln"
+  },
+  {
+    "name": "2017 Daihatsu AYLA R 1.2",
+    "detail1": ["61.937 km", "Manual", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 105.500.000 Rp 2,15 jt/bln",
+    "monthly": "Rp 2,15 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu AYLA R 1.2",
+    "detail1": ["47.085 km", "Manual", "Bogor"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 111.000.000 Rp 2,26 jt/bln",
+    "monthly": "Rp 2,26 jt/bln"
+  },
+  {
+    "name": "2022 Suzuki ERTIGA GL 1.5",
+    "detail1": ["178 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah"],
+    "price": "Rp 190.000.000 Rp 3,87 jt/bln",
+    "monthly": "Rp 3,87 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu AYLA R 1.2",
+    "detail1": ["10.301 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah"],
+    "price": "Rp 114.000.000 Rp 2,32 jt/bln",
+    "monthly": "Rp 2,32 jt/bln"
+  },
+  {
+    "name": "2017 Honda CR-V TURBO 1.5",
+    "detail1": ["75.302 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Electric Parking Brake", "Keyless Push Start"],
+    "price": "Rp 340.000.000 Rp 6,93 jt/bln",
+    "monthly": "Rp 6,93 jt/bln"
+  },
+  {
+    "name": "2020 Wuling CONFERO 2WD 1.5",
+    "detail1": ["18.298 km", "Manual", "Malang"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah"],
+    "price": "Rp 101.500.000 Rp 2,07 jt/bln",
+    "monthly": "Rp 2,07 jt/bln"
+  },
+  {
+    "name": "2019 Wuling ALMAZ LT LUX 1.5",
+    "detail1": ["50.387 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Auto Retract Mirror", "Panoramic Sun Roof"],
+    "price": "Rp 202.000.000 Rp 4,12 jt/bln",
+    "monthly": "Rp 4,12 jt/bln"
+  },
+  {
+    "name": "2019 Nissan LIVINA VL 1.5",
+    "detail1": ["64.235 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 197.000.000 Rp 4,01 jt/bln",
+    "monthly": "Rp 4,01 jt/bln"
+  },
+  {
+    "name": "2021 Toyota CALYA G 1.2",
+    "detail1": ["44.473 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap", "Retract Mirror"],
+    "price": "Rp 138.000.000 Rp 2,81 jt/bln",
+    "monthly": "Rp 2,81 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO SATYA E 1.2",
+    "detail1": ["24.577 km", "Manual", "Bandung"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 135.000.000 Rp 2,75 jt/bln",
+    "monthly": "Rp 2,75 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu TERIOS R 1.5",
+    "detail1": ["42.320 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 193.000.000 Rp 3,93 jt/bln",
+    "monthly": "Rp 3,93 jt/bln"
+  },
+  {
+    "name": "2015 Toyota AVANZA G 1.3",
+    "detail1": ["81.158 km", "Manual", "Surabaya"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 127.000.000 Rp 2,59 jt/bln",
+    "monthly": "Rp 2,59 jt/bln"
+  },
+  {
+    "name": "2018 Honda HR-V S 1.5",
+    "detail1": ["64.753 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Electric Parking Brake"],
+    "price": "Rp 208.000.000 Rp 4,24 jt/bln",
+    "monthly": "Rp 4,24 jt/bln"
+  },
+  {
+    "name": "2019 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["72.887 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Auto Cruise Control"],
+    "price": "Rp 216.000.000 Rp 4,40 jt/bln",
+    "monthly": "Rp 4,40 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["77.425 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 204.000.000 Rp 4,16 jt/bln",
+    "monthly": "Rp 4,16 jt/bln"
+  },
+  {
+    "name": "2016 Daihatsu AYLA X 1.0",
+    "detail1": ["63.175 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 89.000.000 Rp 1,81 jt/bln",
+    "monthly": "Rp 1,81 jt/bln"
+  },
+  {
+    "name": "2020 Toyota AGYA G TRD 1.2",
+    "detail1": ["43.689 km", "Manual", "Depok"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 123.000.000 Rp 2,51 jt/bln",
+    "monthly": "Rp 2,51 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu AYLA X 1.2",
+    "detail1": ["85.583 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 107.000.000 Rp 2,18 jt/bln",
+    "monthly": "Rp 2,18 jt/bln"
+  },
+  {
+    "name": "2020 Toyota CALYA G 1.2",
+    "detail1": ["54.512 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror"],
+    "price": "Rp 133.000.000 Rp 2,71 jt/bln",
+    "monthly": "Rp 2,71 jt/bln"
+  },
+  {
+    "name": "2019 Honda HR-V E 1.5",
+    "detail1": ["35.177 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Electric Parking Brake", "Keyless Push Start"],
+    "price": "Rp 248.000.000 Rp 5,05 jt/bln",
+    "monthly": "Rp 5,05 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi OUTLANDER SPORT PX 2.0",
+    "detail1": ["57.230 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 228.000.000 Rp 4,65 jt/bln",
+    "monthly": "Rp 4,65 jt/bln"
+  },
+  {
+    "name": "2014 Mitsubishi OUTLANDER SPORT GLS 2.0",
+    "detail1": ["133.127 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 157.000.000 Rp 3,20 jt/bln",
+    "monthly": "Rp 3,20 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["34.815 km", "Manual", "Bandung"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 142.000.000 Rp 2,89 jt/bln",
+    "monthly": "Rp 2,89 jt/bln"
+  },
+  {
+    "name": "2016 Toyota AVANZA G 1.3",
+    "detail1": ["98.478 km", "Manual", "Jakarta Barat"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 143.000.000 Rp 2,91 jt/bln",
+    "monthly": "Rp 2,91 jt/bln"
+  },
+  {
+    "name": "2016 Mitsubishi OUTLANDER SPORT PX 2.0",
+    "detail1": ["91.926 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Panoramic Sun Roof"],
+    "price": "Rp 195.000.000 Rp 3,97 jt/bln",
+    "monthly": "Rp 3,97 jt/bln"
+  },
+  {
+    "name": "2018 Honda HR-V SE 1.5",
+    "detail1": ["62.209 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 254.000.000 Rp 5,18 jt/bln",
+    "monthly": "Rp 5,18 jt/bln"
+  },
+  {
+    "name": "2019 Wuling ALMAZ S+T 1.5",
+    "detail1": ["76.950 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap", "Electric Parking Brake", "Kamera Mundur"],
+    "price": "Rp 199.000.000 Rp 4,05 jt/bln",
+    "monthly": "Rp 4,05 jt/bln"
+  },
+  {
+    "name": "2018 Suzuki IGNIS GL 1.2",
+    "detail1": ["43.945 km", "Manual", "Bandung"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur"],
+    "price": "Rp 111.500.000 Rp 2,27 jt/bln",
+    "monthly": "Rp 2,27 jt/bln"
+  },
+  {
+    "name": "2019 Wuling ALMAZ S+T 1.5",
+    "detail1": ["27.804 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Ganjil", "Sports Mode", "Kamera Mundur"],
+    "price": "Rp 203.000.000 Rp 4,14 jt/bln",
+    "monthly": "Rp 4,14 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu AYLA R 1.2",
+    "detail1": ["85.184 km", "Automatic", "Jakarta Pusat"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 117.000.000 Rp 2,38 jt/bln",
+    "monthly": "Rp 2,38 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu TERIOS R 1.5",
+    "detail1": ["40.717 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap", "Keyless Push Start", "Retract Mirror"],
+    "price": "Rp 193.000.000 Rp 3,93 jt/bln",
+    "monthly": "Rp 3,93 jt/bln"
+  },
+  {
+    "name": "2019 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["63.130 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Auto Cruise Control"],
+    "price": "Rp 213.000.000 Rp 4,34 jt/bln",
+    "monthly": "Rp 4,34 jt/bln"
+  },
+  {
+    "name": "2017 Honda CR-V TURBO 1.5",
+    "detail1": ["64.558 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 335.000.000 Rp 6,83 jt/bln",
+    "monthly": "Rp 6,83 jt/bln"
+  },
+  {
+    "name": "2018 Honda HR-V SE 1.5",
+    "detail1": ["43.740 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 255.000.000 Rp 5,20 jt/bln",
+    "monthly": "Rp 5,20 jt/bln"
+  },
+  {
+    "name": "2017 Toyota KIJANG INNOVA REBORN G 2.0",
+    "detail1": ["51.254 km", "Manual", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Sports Mode"],
+    "price": "Rp 242.000.000 Rp 4,93 jt/bln",
+    "monthly": "Rp 4,93 jt/bln"
+  },
+  {
+    "name": "2016 Honda MOBILIO RS 1.5",
+    "detail1": ["84.060 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Sports Mode", "Kamera Mundur"],
+    "price": "Rp 155.000.000 Rp 3,16 jt/bln",
+    "monthly": "Rp 3,16 jt/bln"
+  },
+  {
+    "name": "2014 Toyota KIJANG INNOVA V 2.0",
+    "detail1": ["87.616 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 193.000.000 Rp 3,93 jt/bln",
+    "monthly": "Rp 3,93 jt/bln"
+  },
+  {
+    "name": "2019 Toyota AGYA G TRD 1.2",
+    "detail1": ["53.576 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 122.000.000 Rp 2,49 jt/bln",
+    "monthly": "Rp 2,49 jt/bln"
+  },
+  {
+    "name": "2016 Toyota KIJANG INNOVA G 2.0",
+    "detail1": ["74.730 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 233.000.000 Rp 4,75 jt/bln",
+    "monthly": "Rp 4,75 jt/bln"
+  },
+  {
+    "name": "2017 Suzuki IGNIS GL 1.2",
+    "detail1": ["79.289 km", "Manual", "Bandung"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 110.000.000 Rp 2,24 jt/bln",
+    "monthly": "Rp 2,24 jt/bln"
+  },
+  {
+    "name": "2022 Toyota AGYA GR SPORT 1.2",
+    "detail1": ["5.751 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Retract Mirror"],
+    "price": "Rp 143.000.000 Rp 2,91 jt/bln",
+    "monthly": "Rp 2,91 jt/bln"
+  },
+  {
+    "name": "2020 Daihatsu AYLA R 1.2",
+    "detail1": ["15.552 km", "Manual", "Bogor"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah"],
+    "price": "Rp 123.000.000 Rp 2,51 jt/bln",
+    "monthly": "Rp 2,51 jt/bln"
+  },
+  {
+    "name": "2014 Honda MOBILIO E 1.5",
+    "detail1": ["84.575 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 127.000.000 Rp 2,59 jt/bln",
+    "monthly": "Rp 2,59 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu AYLA R 1.2",
+    "detail1": ["8.691 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah"],
+    "price": "Rp 106.000.000 Rp 2,16 jt/bln",
+    "monthly": "Rp 2,16 jt/bln"
+  },
+  {
+    "name": "2021 Daihatsu TERIOS X DLX 1.5",
+    "detail1": ["29.897 km", "Automatic", "Depok"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur"],
+    "price": "Rp 207.000.000 Rp 4,22 jt/bln",
+    "monthly": "Rp 4,22 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO SATYA E 1.2",
+    "detail1": ["15.855 km", "Manual", "Bogor"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah"],
+    "price": "Rp 147.000.000 Rp 3,00 jt/bln",
+    "monthly": "Rp 3,00 jt/bln"
+  },
+  {
+    "name": "2018 Honda HR-V SE 1.5",
+    "detail1": ["83.286 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 257.000.000 Rp 5,24 jt/bln",
+    "monthly": "Rp 5,24 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO SATYA E 1.2",
+    "detail1": ["36.455 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 139.000.000 Rp 2,83 jt/bln",
+    "monthly": "Rp 2,83 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO RS 1.2",
+    "detail1": ["46.441 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 180.000.000 Rp 3,67 jt/bln",
+    "monthly": "Rp 3,67 jt/bln"
+  },
+  {
+    "name": "2016 Toyota FORTUNER VRZ 2.4",
+    "detail1": ["94.919 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Power Back Door"],
+    "price": "Rp 365.000.000 Rp 7,44 jt/bln",
+    "monthly": "Rp 7,44 jt/bln"
+  },
+  {
+    "name": "2019 Mazda CX-5 ELITE 2.5",
+    "detail1": ["45.271 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Auto Retract Mirror", "Power Back Door"],
+    "price": "Rp 426.000.000 Rp 8,68 jt/bln",
+    "monthly": "Rp 8,68 jt/bln"
+  },
+  {
+    "name": "2018 Nissan GRAND LIVINA XV 1.5",
+    "detail1": ["98.416 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur"],
+    "price": "Rp 148.000.000 Rp 3,02 jt/bln",
+    "monthly": "Rp 3,02 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki ERTIGA GL 1.5",
+    "detail1": ["49.988 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 163.000.000 Rp 3,32 jt/bln",
+    "monthly": "Rp 3,32 jt/bln"
+  },
+  {
+    "name": "2017 Toyota AGYA G 1.0",
+    "detail1": ["78.175 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 99.000.000 Rp 2,02 jt/bln",
+    "monthly": "Rp 2,02 jt/bln"
+  },
+  {
+    "name": "2019 Toyota AGYA G TRD 1.2",
+    "detail1": ["56.303 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 128.000.000 Rp 2,61 jt/bln",
+    "monthly": "Rp 2,61 jt/bln"
+  },
+  {
+    "name": "2021 Suzuki IGNIS GX 1.2",
+    "detail1": ["27.044 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 148.000.000 Rp 3,02 jt/bln",
+    "monthly": "Rp 3,02 jt/bln"
+  },
+  {
+    "name": "2019 Honda HR-V S 1.5",
+    "detail1": ["60.978 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 231.000.000 Rp 4,71 jt/bln",
+    "monthly": "Rp 4,71 jt/bln"
+  },
+  {
+    "name": "2019 Wuling CORTEZ C T LUX 1.5",
+    "detail1": ["55.534 km", "Automatic", "Surabaya"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 168.000.000 Rp 3,42 jt/bln",
+    "monthly": "Rp 3,42 jt/bln"
+  },
+  {
+    "name": "2021 Wuling ALMAZ RS LT LUX + SC CVT 1.5",
+    "detail1": ["38.223 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "360 Camera View", "Panoramic Sun Roof"],
+    "price": "Rp 273.000.000 Rp 5,56 jt/bln",
+    "monthly": "Rp 5,56 jt/bln"
+  },
+  {
+    "name": "2019 Wuling CONFERO S 1.5",
+    "detail1": ["32.630 km", "Manual", "Jakarta Barat"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 104.000.000 Rp 2,12 jt/bln",
+    "monthly": "Rp 2,12 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu AYLA X 1.0",
+    "detail1": ["73.528 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 100.000.000 Rp 2,04 jt/bln",
+    "monthly": "Rp 2,04 jt/bln"
+  },
+  {
+    "name": "2019 Wuling ALMAZ L TURBO 1.5",
+    "detail1": ["43.439 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "360 Camera View"],
+    "price": "Rp 204.000.000 Rp 4,16 jt/bln",
+    "monthly": "Rp 4,16 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu AYLA R 1.2",
+    "detail1": ["25.400 km", "Manual", "Bogor"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 117.000.000 Rp 2,38 jt/bln",
+    "monthly": "Rp 2,38 jt/bln"
+  },
+  {
+    "name": "2017 Toyota KIJANG INNOVA REBORN VENTURER GASOLINE 2.0",
+    "detail1": ["89.898 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 316.000.000 Rp 6,44 jt/bln",
+    "monthly": "Rp 6,44 jt/bln"
+  },
+  {
+    "name": "2014 Toyota AGYA G 1.0",
+    "detail1": ["95.007 km", "Manual", "Bandung"],
+    "detail2": ["Plat Genap", "Kamera Mundur"],
+    "price": "Rp 87.000.000 Rp 1,77 jt/bln",
+    "monthly": "Rp 1,77 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki BALENO HATCHBACK 1.4",
+    "detail1": ["72.458 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 176.000.000 Rp 3,59 jt/bln",
+    "monthly": "Rp 3,59 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki BALENO HATCHBACK 1.4",
+    "detail1": ["41.091 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 160.000.000 Rp 3,26 jt/bln",
+    "monthly": "Rp 3,26 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu AYLA R DLX 1.2",
+    "detail1": ["21.880 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah"],
+    "price": "Rp 114.000.000 Rp 2,32 jt/bln",
+    "monthly": "Rp 2,32 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["66.471 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 209.000.000 Rp 4,26 jt/bln",
+    "monthly": "Rp 4,26 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["57.815 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 210.000.000 Rp 4,28 jt/bln",
+    "monthly": "Rp 4,28 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu AYLA X 1.0",
+    "detail1": ["28.113 km", "Manual", "Jakarta Utara"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 100.000.000 Rp 2,04 jt/bln",
+    "monthly": "Rp 2,04 jt/bln"
+  },
+  {
+    "name": "2020 Daihatsu AYLA R 1.2",
+    "detail1": ["54.801 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 136.000.000 Rp 2,77 jt/bln",
+    "monthly": "Rp 2,77 jt/bln"
+  },
+  {
+    "name": "2019 Wuling ALMAZ LT LUX 1.5",
+    "detail1": ["41.998 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Panoramic Sun Roof"],
+    "price": "Rp 203.000.000 Rp 4,14 jt/bln",
+    "monthly": "Rp 4,14 jt/bln"
+  },
+  {
+    "name": "2015 Daihatsu TERIOS X 1.5",
+    "detail1": ["115.866 km", "Manual", "Jakarta Utara"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 148.000.000 Rp 3,02 jt/bln",
+    "monthly": "Rp 3,02 jt/bln"
+  },
+  {
+    "name": "2019 Wuling ALMAZ LT LUX + SC CVT 1.5",
+    "detail1": ["64.335 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Auto Retract Mirror", "Panoramic Sun Roof"],
+    "price": "Rp 214.000.000 Rp 4,36 jt/bln",
+    "monthly": "Rp 4,36 jt/bln"
+  },
+  {
+    "name": "2022 Toyota AVANZA G 1.5",
+    "detail1": ["7.835 km", "Manual", "Malang"],
+    "detail2": ["Plat Genap", "Auto Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 219.000.000 Rp 4,46 jt/bln",
+    "monthly": "Rp 4,46 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["42.586 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 142.000.000 Rp 2,89 jt/bln",
+    "monthly": "Rp 2,89 jt/bln"
+  },
+  {
+    "name": "2021 Honda CITY RS HATCHBACK 1.5",
+    "detail1": ["18.936 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Retract Mirror"],
+    "price": "Rp 261.000.000 Rp 5,32 jt/bln",
+    "monthly": "Rp 5,32 jt/bln"
+  },
+  {
+    "name": "2015 Honda HR-V E 1.5",
+    "detail1": ["122.090 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 198.000.000 Rp 4,03 jt/bln",
+    "monthly": "Rp 4,03 jt/bln"
+  },
+  {
+    "name": "2017 Daihatsu AYLA X ELEGANT 1.0",
+    "detail1": ["34.014 km", "Manual", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 96.000.000 Rp 1,96 jt/bln",
+    "monthly": "Rp 1,96 jt/bln"
+  },
+  {
+    "name": "2022 Toyota KIJANG INNOVA G 2.0",
+    "detail1": ["25.226 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 360.000.000 Rp 7,33 jt/bln",
+    "monthly": "Rp 7,33 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu AYLA R DLX 1.2",
+    "detail1": ["6.011 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah"],
+    "price": "Rp 116.000.000 Rp 2,36 jt/bln",
+    "monthly": "Rp 2,36 jt/bln"
+  },
+  {
+    "name": "2017 Toyota AVANZA E 1.3",
+    "detail1": ["70.052 km", "Automatic", "Surabaya"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 135.000.000 Rp 2,75 jt/bln",
+    "monthly": "Rp 2,75 jt/bln"
+  },
+  {
+    "name": "2020 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["53.096 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 224.000.000 Rp 4,56 jt/bln",
+    "monthly": "Rp 4,56 jt/bln"
+  },
+  {
+    "name": "2016 Honda MOBILIO E 1.5",
+    "detail1": ["66.129 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 136.000.000 Rp 2,77 jt/bln",
+    "monthly": "Rp 2,77 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu XENIA R STD 1.3",
+    "detail1": ["34.359 km", "Manual", "Surabaya"],
+    "detail2": ["Plat Ganjil", "Retract Mirror"],
+    "price": "Rp 160.000.000 Rp 3,26 jt/bln",
+    "monthly": "Rp 3,26 jt/bln"
+  },
+  {
+    "name": "2021 Wuling CORTEZ S T LUX 1.5",
+    "detail1": ["42.302 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Sports Mode"],
+    "price": "Rp 180.000.000 Rp 3,67 jt/bln",
+    "monthly": "Rp 3,67 jt/bln"
+  },
+  {
+    "name": "2021 Wuling CORTEZ L T LUX 1.5",
+    "detail1": ["32.320 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sun Roof"],
+    "price": "Rp 206.000.000 Rp 4,20 jt/bln",
+    "monthly": "Rp 4,20 jt/bln"
+  },
+  {
+    "name": "2019 Wuling ALMAZ LT LUX 1.5",
+    "detail1": ["55.346 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "360 Camera View", "Auto Retract Mirror"],
+    "price": "Rp 203.000.000 Rp 4,14 jt/bln",
+    "monthly": "Rp 4,14 jt/bln"
+  },
+  {
+    "name": "2018 Honda HR-V E 1.5",
+    "detail1": ["85.936 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 232.000.000 Rp 4,73 jt/bln",
+    "monthly": "Rp 4,73 jt/bln"
+  },
+  {
+    "name": "2016 Toyota FORTUNER VRZ 2.4",
+    "detail1": ["112.148 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Power Back Door"],
+    "price": "Rp 365.000.000 Rp 7,44 jt/bln",
+    "monthly": "Rp 7,44 jt/bln"
+  },
+  {
+    "name": "2016 Mitsubishi PAJERO SPORT DAKAR 4X2 2.4",
+    "detail1": ["95.178 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sun Roof"],
+    "price": "Rp 390.000.000 Rp 7,95 jt/bln",
+    "monthly": "Rp 7,95 jt/bln"
+  },
+  {
+    "name": "2021 Honda CITY RS HATCHBACK 1.5",
+    "detail1": ["25.160 km", "Manual", "Bogor"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Auto Cruise Control"],
+    "price": "Rp 246.000.000 Rp 5,01 jt/bln",
+    "monthly": "Rp 5,01 jt/bln"
+  },
+  {
+    "name": "2017 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["53.266 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 201.000.000 Rp 4,10 jt/bln",
+    "monthly": "Rp 4,10 jt/bln"
+  },
+  {
+    "name": "2020 Suzuki XL7 ALPHA 1.5",
+    "detail1": ["51.694 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 210.000.000 Rp 4,28 jt/bln",
+    "monthly": "Rp 4,28 jt/bln"
+  },
+  {
+    "name": "2020 Daihatsu AYLA X 1.0",
+    "detail1": ["56.960 km", "Manual", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 100.000.000 Rp 2,04 jt/bln",
+    "monthly": "Rp 2,04 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["48.434 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 156.000.000 Rp 3,18 jt/bln",
+    "monthly": "Rp 3,18 jt/bln"
+  },
+  {
+    "name": "2019 Honda MOBILIO E 1.5",
+    "detail1": ["52.561 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap", "Sports Mode", "Kamera Mundur"],
+    "price": "Rp 172.000.000 Rp 3,50 jt/bln",
+    "monthly": "Rp 3,50 jt/bln"
+  },
+  {
+    "name": "2019 Toyota YARIS G 1.5",
+    "detail1": ["65.003 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Vehicle Stability Control", "Sports Mode"],
+    "price": "Rp 191.000.000 Rp 3,89 jt/bln",
+    "monthly": "Rp 3,89 jt/bln"
+  },
+  {
+    "name": "2019 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["74.934 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 212.000.000 Rp 4,32 jt/bln",
+    "monthly": "Rp 4,32 jt/bln"
+  },
+  {
+    "name": "2016 Honda MOBILIO E 1.5",
+    "detail1": ["82.350 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Sports Mode"],
+    "price": "Rp 145.000.000 Rp 2,95 jt/bln",
+    "monthly": "Rp 2,95 jt/bln"
+  },
+  {
+    "name": "2018 Toyota RUSH S 1.5",
+    "detail1": ["86.251 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 201.000.000 Rp 4,10 jt/bln",
+    "monthly": "Rp 4,10 jt/bln"
+  },
+  {
+    "name": "2018 Honda HR-V E 1.5",
+    "detail1": ["41.320 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Electric Parking Brake", "Retract Mirror"],
+    "price": "Rp 232.000.000 Rp 4,73 jt/bln",
+    "monthly": "Rp 4,73 jt/bln"
+  },
+  {
+    "name": "2020 Daihatsu XENIA X 1.3",
+    "detail1": ["36.205 km", "Manual", "Bandung"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 163.000.000 Rp 3,32 jt/bln",
+    "monthly": "Rp 3,32 jt/bln"
+  },
+  {
+    "name": "2021 Toyota RUSH S GR SPORT 1.5",
+    "detail1": ["58.598 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 239.000.000 Rp 4,87 jt/bln",
+    "monthly": "Rp 4,87 jt/bln"
+  },
+  {
+    "name": "2017 Honda CR-V 2.0",
+    "detail1": ["104.079 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 248.000.000 Rp 5,05 jt/bln",
+    "monthly": "Rp 5,05 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["81.726 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 154.000.000 Rp 3,14 jt/bln",
+    "monthly": "Rp 3,14 jt/bln"
+  },
+  {
+    "name": "2019 Honda HR-V SE 1.5",
+    "detail1": ["95.389 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Ganjil", "Electric Parking Brake", "Retract Mirror"],
+    "price": "Rp 266.000.000 Rp 5,42 jt/bln",
+    "monthly": "Rp 5,42 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu AYLA R 1.2",
+    "detail1": ["57.138 km", "Manual", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 115.000.000 Rp 2,34 jt/bln",
+    "monthly": "Rp 2,34 jt/bln"
+  },
+  {
+    "name": "2017 Honda CR-V TURBO 1.5",
+    "detail1": ["117.511 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Map Navigator"],
+    "price": "Rp 336.000.000 Rp 6,85 jt/bln",
+    "monthly": "Rp 6,85 jt/bln"
+  },
+  {
+    "name": "2019 Toyota YARIS S TRD 1.5",
+    "detail1": ["30.898 km", "Automatic", "Depok"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 218.000.000 Rp 4,44 jt/bln",
+    "monthly": "Rp 4,44 jt/bln"
+  },
+  {
+    "name": "2021 Daihatsu ROCKY R 1.0",
+    "detail1": ["21.304 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Auto Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 216.000.000 Rp 4,40 jt/bln",
+    "monthly": "Rp 4,40 jt/bln"
+  },
+  {
+    "name": "2016 Suzuki ERTIGA GL 1.4",
+    "detail1": ["132.270 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 129.000.000 Rp 2,63 jt/bln",
+    "monthly": "Rp 2,63 jt/bln"
+  },
+  {
+    "name": "2020 Toyota KIJANG INNOVA REBORN V 2.0",
+    "detail1": ["67.327 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 336.000.000 Rp 6,85 jt/bln",
+    "monthly": "Rp 6,85 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO SATYA E 1.2",
+    "detail1": ["55.240 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Sports Mode"],
+    "price": "Rp 142.000.000 Rp 2,89 jt/bln",
+    "monthly": "Rp 2,89 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu AYLA R 1.2",
+    "detail1": ["17.916 km", "Manual", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah"],
+    "price": "Rp 117.000.000 Rp 2,38 jt/bln",
+    "monthly": "Rp 2,38 jt/bln"
+  },
+  {
+    "name": "2020 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["69.785 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 232.000.000 Rp 4,73 jt/bln",
+    "monthly": "Rp 4,73 jt/bln"
+  },
+  {
+    "name": "2021 Toyota YARIS S TRD 1.5",
+    "detail1": ["39.191 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 240.000.000 Rp 4,89 jt/bln",
+    "monthly": "Rp 4,89 jt/bln"
+  },
+  {
+    "name": "2021 Wuling ALMAZ LT LUX CVT 1.5",
+    "detail1": ["9.775 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Panoramic Sun Roof"],
+    "price": "Rp 241.000.000 Rp 4,91 jt/bln",
+    "monthly": "Rp 4,91 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu AYLA R DLX 1.2",
+    "detail1": ["33.635 km", "Manual", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 115.000.000 Rp 2,34 jt/bln",
+    "monthly": "Rp 2,34 jt/bln"
+  },
+  {
+    "name": "2016 Toyota AGYA G 1.0",
+    "detail1": ["76.931 km", "Manual", "Jakarta Timur"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 95.000.000 Rp 1,94 jt/bln",
+    "monthly": "Rp 1,94 jt/bln"
+  },
+  {
+    "name": "2017 Daihatsu AYLA X 1.0",
+    "detail1": ["93.445 km", "Manual", "Jakarta Pusat"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 93.000.000 Rp 1,89 jt/bln",
+    "monthly": "Rp 1,89 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu AYLA X 1.0",
+    "detail1": ["86.462 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 98.000.000 Rp 2,00 jt/bln",
+    "monthly": "Rp 2,00 jt/bln"
+  },
+  {
+    "name": "2019 Toyota CALYA G 1.2",
+    "detail1": ["40.358 km", "Manual", "Bandung"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 124.000.000 Rp 2,53 jt/bln",
+    "monthly": "Rp 2,53 jt/bln"
+  },
+  {
+    "name": "2018 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["47.810 km", "Automatic", "Depok"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 207.000.000 Rp 4,22 jt/bln",
+    "monthly": "Rp 4,22 jt/bln"
+  },
+  {
+    "name": "2019 Wuling CORTEZ T LUX 1.5",
+    "detail1": ["72.650 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Electric Parking Brake", "Sun Roof"],
+    "price": "Rp 178.000.000 Rp 3,63 jt/bln",
+    "monthly": "Rp 3,63 jt/bln"
+  },
+  {
+    "name": "2019 Mitsubishi XPANDER EXCEED 1.5",
+    "detail1": ["34.947 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 198.000.000 Rp 4,03 jt/bln",
+    "monthly": "Rp 4,03 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["98.742 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 211.000.000 Rp 4,30 jt/bln",
+    "monthly": "Rp 4,30 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki IGNIS GL 1.2",
+    "detail1": ["26.233 km", "Manual", "Jakarta Timur"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 119.000.000 Rp 2,42 jt/bln",
+    "monthly": "Rp 2,42 jt/bln"
+  },
+  {
+    "name": "2018 Toyota AGYA G TRD 1.2",
+    "detail1": ["55.010 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 126.000.000 Rp 2,57 jt/bln",
+    "monthly": "Rp 2,57 jt/bln"
+  },
+  {
+    "name": "2017 Suzuki BALENO HATCHBACK 1.4",
+    "detail1": ["24.032 km", "Manual", "Jakarta Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 152.000.000 Rp 3,10 jt/bln",
+    "monthly": "Rp 3,10 jt/bln"
+  },
+  {
+    "name": "2017 Toyota AGYA G TRD 1.0",
+    "detail1": ["10.656 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah"],
+    "price": "Rp 105.000.000 Rp 2,14 jt/bln",
+    "monthly": "Rp 2,14 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu AYLA R 1.2",
+    "detail1": ["78.944 km", "Manual", "Bogor"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 113.000.000 Rp 2,30 jt/bln",
+    "monthly": "Rp 2,30 jt/bln"
+  },
+  {
+    "name": "2020 Mitsubishi ECLIPSE CROSS ULTIMATE 1.5",
+    "detail1": ["42.516 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sun Roof"],
+    "price": "Rp 355.000.000 Rp 7,23 jt/bln",
+    "monthly": "Rp 7,23 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO SATYA E 1.2",
+    "detail1": ["64.684 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 159.000.000 Rp 3,24 jt/bln",
+    "monthly": "Rp 3,24 jt/bln"
+  },
+  {
+    "name": "2022 Toyota AGYA GR SPORT 1.2",
+    "detail1": ["22.803 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 154.000.000 Rp 3,14 jt/bln",
+    "monthly": "Rp 3,14 jt/bln"
+  },
+  {
+    "name": "2020 Daihatsu AYLA R 1.2",
+    "detail1": ["42.587 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 136.000.000 Rp 2,77 jt/bln",
+    "monthly": "Rp 2,77 jt/bln"
+  },
+  {
+    "name": "2018 Toyota RUSH S TRD 1.5",
+    "detail1": ["67.595 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 211.000.000 Rp 4,30 jt/bln",
+    "monthly": "Rp 4,30 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu TERIOS R 1.5",
+    "detail1": ["28.869 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 194.000.000 Rp 3,95 jt/bln",
+    "monthly": "Rp 3,95 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu TERIOS X DLX 1.5",
+    "detail1": ["70.234 km", "Manual", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur"],
+    "price": "Rp 192.000.000 Rp 3,91 jt/bln",
+    "monthly": "Rp 3,91 jt/bln"
+  },
+  {
+    "name": "2016 Honda HR-V E 1.5",
+    "detail1": ["65.219 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 210.000.000 Rp 4,28 jt/bln",
+    "monthly": "Rp 4,28 jt/bln"
+  },
+  {
+    "name": "2016 Honda HR-V E 1.5",
+    "detail1": ["74.516 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 211.000.000 Rp 4,30 jt/bln",
+    "monthly": "Rp 4,30 jt/bln"
+  },
+  {
+    "name": "2018 Honda HR-V E PLUS 1.5",
+    "detail1": ["71.135 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Electric Parking Brake", "Auto Cruise Control"],
+    "price": "Rp 255.000.000 Rp 5,20 jt/bln",
+    "monthly": "Rp 5,20 jt/bln"
+  },
+  {
+    "name": "2015 Mazda 2 GT SKYACTIV 1.5",
+    "detail1": ["94.312 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 184.000.000 Rp 3,75 jt/bln",
+    "monthly": "Rp 3,75 jt/bln"
+  },
+  {
+    "name": "2019 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["66.029 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Keyless Push Start", "Retract Mirror"],
+    "price": "Rp 219.000.000 Rp 4,46 jt/bln",
+    "monthly": "Rp 4,46 jt/bln"
+  },
+  {
+    "name": "2017 Toyota KIJANG INNOVA REBORN G 2.0",
+    "detail1": ["103.601 km", "Automatic", "Malang"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur", "Sports Mode"],
+    "price": "Rp 248.000.000 Rp 5,05 jt/bln",
+    "monthly": "Rp 5,05 jt/bln"
+  },
+  {
+    "name": "2018 Toyota AGYA G TRD 1.2",
+    "detail1": ["30.738 km", "Manual", "Bandung"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 120.000.000 Rp 2,44 jt/bln",
+    "monthly": "Rp 2,44 jt/bln"
+  },
+  {
+    "name": "2018 Toyota AGYA G TRD 1.2",
+    "detail1": ["45.824 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 121.000.000 Rp 2,47 jt/bln",
+    "monthly": "Rp 2,47 jt/bln"
+  },
+  {
+    "name": "2016 Nissan X-TRAIL 2.0",
+    "detail1": ["117.889 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Power Back Door", "360 Camera View"],
+    "price": "Rp 190.000.000 Rp 3,87 jt/bln",
+    "monthly": "Rp 3,87 jt/bln"
+  },
+  {
+    "name": "2018 Honda HR-V E 1.5",
+    "detail1": ["54.437 km", "Automatic", "Depok"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 236.000.000 Rp 4,81 jt/bln",
+    "monthly": "Rp 4,81 jt/bln"
+  },
+  {
+    "name": "2019 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["51.860 km", "Manual", "Depok"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 213.000.000 Rp 4,34 jt/bln",
+    "monthly": "Rp 4,34 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO RS 1.2",
+    "detail1": ["28.884 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 183.000.000 Rp 3,73 jt/bln",
+    "monthly": "Rp 3,73 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO RS 1.2",
+    "detail1": ["21.701 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Retract Mirror"],
+    "price": "Rp 151.000.000 Rp 3,08 jt/bln",
+    "monthly": "Rp 3,08 jt/bln"
+  },
+  {
+    "name": "2017 Suzuki ERTIGA GX 1.4",
+    "detail1": ["110.889 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror"],
+    "price": "Rp 149.000.000 Rp 3,04 jt/bln",
+    "monthly": "Rp 3,04 jt/bln"
+  },
+  {
+    "name": "2021 Daihatsu ROCKY R 1.0",
+    "detail1": ["22.709 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Auto Retract Mirror"],
+    "price": "Rp 218.000.000 Rp 4,44 jt/bln",
+    "monthly": "Rp 4,44 jt/bln"
+  },
+  {
+    "name": "2018 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["51.410 km", "Automatic", "Depok"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 213.000.000 Rp 4,34 jt/bln",
+    "monthly": "Rp 4,34 jt/bln"
+  },
+  {
+    "name": "2018 Toyota SIENTA Q 1.5",
+    "detail1": ["64.808 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Power Sliding Door"],
+    "price": "Rp 199.000.000 Rp 4,05 jt/bln",
+    "monthly": "Rp 4,05 jt/bln"
+  },
+  {
+    "name": "2020 Wuling CONFERO S L LUX 1.5",
+    "detail1": ["12.790 km", "Manual", "Bandung"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Retract Mirror"],
+    "price": "Rp 127.000.000 Rp 2,59 jt/bln",
+    "monthly": "Rp 2,59 jt/bln"
+  },
+  {
+    "name": "2017 Suzuki SX4 S-CROSS 1.5",
+    "detail1": ["96.199 km", "Automatic", "Depok"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 169.000.000 Rp 3,44 jt/bln",
+    "monthly": "Rp 3,44 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["67.803 km", "Automatic", "Depok"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 211.000.000 Rp 4,30 jt/bln",
+    "monthly": "Rp 4,30 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki ERTIGA SPORT GT 1.5",
+    "detail1": ["78.472 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 196.000.000 Rp 3,99 jt/bln",
+    "monthly": "Rp 3,99 jt/bln"
+  },
+  {
+    "name": "2017 Suzuki IGNIS GX 1.2",
+    "detail1": ["103.106 km", "Automatic", "Jakarta Pusat"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 129.000.000 Rp 2,63 jt/bln",
+    "monthly": "Rp 2,63 jt/bln"
+  },
+  {
+    "name": "2016 Daihatsu SIGRA R DLX 1.2",
+    "detail1": ["99.317 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur"],
+    "price": "Rp 111.000.000 Rp 2,26 jt/bln",
+    "monthly": "Rp 2,26 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu SIGRA D 1.0",
+    "detail1": ["29.119 km", "Manual", "Surabaya"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 102.000.000 Rp 2,08 jt/bln",
+    "monthly": "Rp 2,08 jt/bln"
+  },
+  {
+    "name": "2016 Mazda 2 R SKYACTIV 1.5",
+    "detail1": ["83.081 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 174.000.000 Rp 3,55 jt/bln",
+    "monthly": "Rp 3,55 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu TERIOS X DLX 1.5",
+    "detail1": ["41.027 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur"],
+    "price": "Rp 185.000.000 Rp 3,77 jt/bln",
+    "monthly": "Rp 3,77 jt/bln"
+  },
+  {
+    "name": "2018 Honda HR-V E PLUS 1.5",
+    "detail1": ["73.712 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 256.000.000 Rp 5,22 jt/bln",
+    "monthly": "Rp 5,22 jt/bln"
+  },
+  {
+    "name": "2018 Honda HR-V E PLUS 1.5",
+    "detail1": ["27.308 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 258.000.000 Rp 5,26 jt/bln",
+    "monthly": "Rp 5,26 jt/bln"
+  },
+  {
+    "name": "2019 Mitsubishi XPANDER SPORT 1.5",
+    "detail1": ["70.969 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 210.000.000 Rp 4,28 jt/bln",
+    "monthly": "Rp 4,28 jt/bln"
+  },
+  {
+    "name": "2016 Honda BR-V E 1.5",
+    "detail1": ["119.436 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 164.000.000 Rp 3,34 jt/bln",
+    "monthly": "Rp 3,34 jt/bln"
+  },
+  {
+    "name": "2017 Honda CITY E 1.5",
+    "detail1": ["61.556 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 205.000.000 Rp 4,18 jt/bln",
+    "monthly": "Rp 4,18 jt/bln"
+  },
+  {
+    "name": "2018 Toyota KIJANG INNOVA REBORN G 2.0",
+    "detail1": ["74.520 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Sports Mode"],
+    "price": "Rp 261.000.000 Rp 5,32 jt/bln",
+    "monthly": "Rp 5,32 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu AYLA R 1.2",
+    "detail1": ["81.739 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 120.000.000 Rp 2,44 jt/bln",
+    "monthly": "Rp 2,44 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO RS 1.2",
+    "detail1": ["83.538 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 151.000.000 Rp 3,08 jt/bln",
+    "monthly": "Rp 3,08 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO SATYA E 1.2",
+    "detail1": ["52.723 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap", "Sports Mode"],
+    "price": "Rp 162.000.000 Rp 3,30 jt/bln",
+    "monthly": "Rp 3,30 jt/bln"
+  },
+  {
+    "name": "2018 Honda HR-V E PLUS 1.5",
+    "detail1": ["94.946 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Electric Parking Brake"],
+    "price": "Rp 258.000.000 Rp 5,26 jt/bln",
+    "monthly": "Rp 5,26 jt/bln"
+  },
+  {
+    "name": "2021 Honda CITY RS HATCHBACK 1.5",
+    "detail1": ["22.670 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 262.000.000 Rp 5,34 jt/bln",
+    "monthly": "Rp 5,34 jt/bln"
+  },
+  {
+    "name": "2019 Honda HR-V E 1.5",
+    "detail1": ["68.990 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 261.000.000 Rp 5,32 jt/bln",
+    "monthly": "Rp 5,32 jt/bln"
+  },
+  {
+    "name": "2015 Mazda 2 R SKYACTIV 1.5",
+    "detail1": ["126.721 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 162.000.000 Rp 3,30 jt/bln",
+    "monthly": "Rp 3,30 jt/bln"
+  },
+  {
+    "name": "2015 Mazda 2 R SKYACTIV 1.5",
+    "detail1": ["117.682 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 166.000.000 Rp 3,38 jt/bln",
+    "monthly": "Rp 3,38 jt/bln"
+  },
+  {
+    "name": "2022 Toyota AGYA G 1.2",
+    "detail1": ["9.881 km", "Manual", "Jakarta Selatan"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Retract Mirror"],
+    "price": "Rp 136.000.000 Rp 2,77 jt/bln",
+    "monthly": "Rp 2,77 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["61.532 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Auto Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 212.000.000 Rp 4,32 jt/bln",
+    "monthly": "Rp 4,32 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["47.180 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 213.000.000 Rp 4,34 jt/bln",
+    "monthly": "Rp 4,34 jt/bln"
+  },
+  {
+    "name": "2019 Nissan LIVINA VL 1.5",
+    "detail1": ["83.691 km", "Automatic", "Jakarta Pusat"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 199.000.000 Rp 4,05 jt/bln",
+    "monthly": "Rp 4,05 jt/bln"
+  },
+  {
+    "name": "2019 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["76.928 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 221.000.000 Rp 4,50 jt/bln",
+    "monthly": "Rp 4,50 jt/bln"
+  },
+  {
+    "name": "2019 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["57.056 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 219.000.000 Rp 4,46 jt/bln",
+    "monthly": "Rp 4,46 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu TERIOS R DLX 1.5",
+    "detail1": ["72.957 km", "Automatic", "Malang"],
+    "detail2": ["Plat Genap", "Retract Mirror", "360 Camera View"],
+    "price": "Rp 203.000.000 Rp 4,14 jt/bln",
+    "monthly": "Rp 4,14 jt/bln"
+  },
+  {
+    "name": "2013 Daihatsu XENIA R DLX 1.3",
+    "detail1": ["140.903 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Kamera Mundur"],
+    "price": "Rp 106.000.000 Rp 2,16 jt/bln",
+    "monthly": "Rp 2,16 jt/bln"
+  },
+  {
+    "name": "2018 Honda BR-V E PRESTIGE 1.5",
+    "detail1": ["85.650 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 182.000.000 Rp 3,71 jt/bln",
+    "monthly": "Rp 3,71 jt/bln"
+  },
+  {
+    "name": "2010 Toyota KIJANG INNOVA G LUX 2.0",
+    "detail1": ["169.237 km", "Manual", "Bandung"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 129.000.000 Rp 2,63 jt/bln",
+    "monthly": "Rp 2,63 jt/bln"
+  },
+  {
+    "name": "2014 Nissan GRAND LIVINA XV 1.5",
+    "detail1": ["142.175 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 100.000.000 Rp 2,04 jt/bln",
+    "monthly": "Rp 2,04 jt/bln"
+  },
+  {
+    "name": "2017 Daihatsu SIGRA R DLX 1.2",
+    "detail1": ["122.574 km", "Manual", "Bandung"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 98.000.000 Rp 2,00 jt/bln",
+    "monthly": "Rp 2,00 jt/bln"
+  },
+  {
+    "name": "2018 Honda HR-V E 1.5",
+    "detail1": ["92.961 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Electric Parking Brake", "Retract Mirror"],
+    "price": "Rp 224.000.000 Rp 4,56 jt/bln",
+    "monthly": "Rp 4,56 jt/bln"
+  },
+  {
+    "name": "2015 Honda MOBILIO RS 1.5",
+    "detail1": ["73.033 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 139.000.000 Rp 2,83 jt/bln",
+    "monthly": "Rp 2,83 jt/bln"
+  },
+  {
+    "name": "2016 Toyota CALYA G 1.2",
+    "detail1": ["59.581 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 101.000.000 Rp 2,06 jt/bln",
+    "monthly": "Rp 2,06 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu AYLA R DLX 1.2",
+    "detail1": ["80.201 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 118.000.000 Rp 2,40 jt/bln",
+    "monthly": "Rp 2,40 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu SIGRA R STD 1.2",
+    "detail1": ["140.428 km", "Manual", "Bandung"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 101.000.000 Rp 2,06 jt/bln",
+    "monthly": "Rp 2,06 jt/bln"
+  },
+  {
+    "name": "2017 Toyota RUSH G 1.5",
+    "detail1": ["89.405 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 161.000.000 Rp 3,28 jt/bln",
+    "monthly": "Rp 3,28 jt/bln"
+  },
+  {
+    "name": "2013 Suzuki ERTIGA GL 1.4",
+    "detail1": ["77.093 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 111.000.000 Rp 2,26 jt/bln",
+    "monthly": "Rp 2,26 jt/bln"
+  },
+  {
+    "name": "2017 Datsun GO+ PANCA T 1.2",
+    "detail1": ["46.497 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 77.000.000 Rp 1,57 jt/bln",
+    "monthly": "Rp 1,57 jt/bln"
+  },
+  {
+    "name": "2018 Toyota CALYA G 1.2",
+    "detail1": ["169.351 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 112.000.000 Rp 2,28 jt/bln",
+    "monthly": "Rp 2,28 jt/bln"
+  },
+  {
+    "name": "2021 Daihatsu ROCKY R 1.0",
+    "detail1": ["24.619 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Auto Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 189.000.000 Rp 3,85 jt/bln",
+    "monthly": "Rp 3,85 jt/bln"
+  },
+  {
+    "name": "2012 Daihatsu XENIA X STD 1.3",
+    "detail1": ["44.746 km", "Manual", "Jakarta Selatan"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 102.000.000 Rp 2,08 jt/bln",
+    "monthly": "Rp 2,08 jt/bln"
+  },
+  {
+    "name": "2022 Toyota RAIZE TURBO G 1.0",
+    "detail1": ["19.489 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Auto Retract Mirror"],
+    "price": "Rp 216.000.000 Rp 4,40 jt/bln",
+    "monthly": "Rp 4,40 jt/bln"
+  },
+  {
+    "name": "2018 Toyota KIJANG INNOVA Q 2.0",
+    "detail1": ["53.528 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 314.000.000 Rp 6,40 jt/bln",
+    "monthly": "Rp 6,40 jt/bln"
+  },
+  {
+    "name": "2018 Suzuki ERTIGA GX 1.4",
+    "detail1": ["79.198 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 157.000.000 Rp 3,20 jt/bln",
+    "monthly": "Rp 3,20 jt/bln"
+  },
+  {
+    "name": "2016 Toyota AVANZA VELOZ 1.3",
+    "detail1": ["172.865 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 139.000.000 Rp 2,83 jt/bln",
+    "monthly": "Rp 2,83 jt/bln"
+  },
+  {
+    "name": "2017 Honda MOBILIO E 1.5",
+    "detail1": ["59.147 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur", "Sports Mode"],
+    "price": "Rp 157.000.000 Rp 3,20 jt/bln",
+    "monthly": "Rp 3,20 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER SPORT 1.5",
+    "detail1": ["58.752 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 201.000.000 Rp 4,10 jt/bln",
+    "monthly": "Rp 4,10 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["93.142 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 209.000.000 Rp 4,26 jt/bln",
+    "monthly": "Rp 4,26 jt/bln"
+  },
+  {
+    "name": "2019 Mazda CX-3 GT 2.0",
+    "detail1": ["32.130 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 323.000.000 Rp 6,58 jt/bln",
+    "monthly": "Rp 6,58 jt/bln"
+  },
+  {
+    "name": "2016 Honda BRIO E 1.2",
+    "detail1": ["48.751 km", "Automatic", "Jakarta Pusat"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 131.000.000 Rp 2,67 jt/bln",
+    "monthly": "Rp 2,67 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi PAJERO SPORT DAKAR ULTIMATE 4X2 2.4",
+    "detail1": ["73.296 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Keyless Push Start"],
+    "price": "Rp 428.000.000 Rp 8,72 jt/bln",
+    "monthly": "Rp 8,72 jt/bln"
+  },
+  {
+    "name": "2017 Toyota KIJANG INNOVA REBORN V 2.0",
+    "detail1": ["34.960 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 278.000.000 Rp 5,66 jt/bln",
+    "monthly": "Rp 5,66 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki ERTIGA SPORT GT 1.5",
+    "detail1": ["18.426 km", "Manual", "Depok"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Retract Mirror"],
+    "price": "Rp 186.000.000 Rp 3,79 jt/bln",
+    "monthly": "Rp 3,79 jt/bln"
+  },
+  {
+    "name": "2021 Toyota AGYA G TRD SPORTIVO 1.2",
+    "detail1": ["36.037 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 145.000.000 Rp 2,95 jt/bln",
+    "monthly": "Rp 2,95 jt/bln"
+  },
+  {
+    "name": "2021 Suzuki XL7 ALPHA 1.5",
+    "detail1": ["26.534 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 221.000.000 Rp 4,50 jt/bln",
+    "monthly": "Rp 4,50 jt/bln"
+  },
+  {
+    "name": "2018 Suzuki BALENO HATCHBACK 1.4",
+    "detail1": ["79.665 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 165.000.000 Rp 3,36 jt/bln",
+    "monthly": "Rp 3,36 jt/bln"
+  },
+  {
+    "name": "2021 Honda CITY RS HATCHBACK 1.5",
+    "detail1": ["46.694 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 262.000.000 Rp 5,34 jt/bln",
+    "monthly": "Rp 5,34 jt/bln"
+  },
+  {
+    "name": "2018 Toyota KIJANG INNOVA REBORN G 2.0",
+    "detail1": ["80.809 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Sports Mode", "Retract Mirror"],
+    "price": "Rp 255.000.000 Rp 5,20 jt/bln",
+    "monthly": "Rp 5,20 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["82.596 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 213.000.000 Rp 4,34 jt/bln",
+    "monthly": "Rp 4,34 jt/bln"
+  },
+  {
+    "name": "2021 Wuling ALMAZ S+T SMART ENJOY 1.5",
+    "detail1": ["39.239 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Electric Parking Brake"],
+    "price": "Rp 220.000.000 Rp 4,48 jt/bln",
+    "monthly": "Rp 4,48 jt/bln"
+  },
+  {
+    "name": "2018 Suzuki IGNIS GX AGS 1.2",
+    "detail1": ["125.114 km", "Automatic", "Jakarta Pusat"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Keyless Push Start"],
+    "price": "Rp 125.000.000 Rp 2,55 jt/bln",
+    "monthly": "Rp 2,55 jt/bln"
+  },
+  {
+    "name": "2022 Hyundai CRETA PRIME 1.5",
+    "detail1": ["28.896 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap", "Keyless Push Start", "Panoramic Sun Roof"],
+    "price": "Rp 319.000.000 Rp 6,50 jt/bln",
+    "monthly": "Rp 6,50 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER EXCEED 1.5",
+    "detail1": ["51.387 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 194.000.000 Rp 3,95 jt/bln",
+    "monthly": "Rp 3,95 jt/bln"
+  },
+  {
+    "name": "2021 Toyota RAIZE GR SPORT 1.0",
+    "detail1": ["18.599 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Retract Mirror"],
+    "price": "Rp 224.000.000 Rp 4,56 jt/bln",
+    "monthly": "Rp 4,56 jt/bln"
+  },
+  {
+    "name": "2016 Toyota KIJANG INNOVA V 2.0",
+    "detail1": ["104.055 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 255.000.000 Rp 5,20 jt/bln",
+    "monthly": "Rp 5,20 jt/bln"
+  },
+  {
+    "name": "2017 Suzuki ERTIGA GX 1.4",
+    "detail1": ["28.466 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror"],
+    "price": "Rp 154.000.000 Rp 3,14 jt/bln",
+    "monthly": "Rp 3,14 jt/bln"
+  },
+  {
+    "name": "2017 Suzuki ERTIGA DREZA 1.4",
+    "detail1": ["77.648 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror"],
+    "price": "Rp 155.000.000 Rp 3,16 jt/bln",
+    "monthly": "Rp 3,16 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki BALENO HATCHBACK 1.4",
+    "detail1": ["44.979 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 181.000.000 Rp 3,69 jt/bln",
+    "monthly": "Rp 3,69 jt/bln"
+  },
+  {
+    "name": "2017 Honda BRIO RS 1.2",
+    "detail1": ["61.782 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 143.000.000 Rp 2,91 jt/bln",
+    "monthly": "Rp 2,91 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["46.912 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 156.000.000 Rp 3,18 jt/bln",
+    "monthly": "Rp 3,18 jt/bln"
+  },
+  {
+    "name": "2017 Honda BR-V E 1.5",
+    "detail1": ["109.995 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 169.000.000 Rp 3,44 jt/bln",
+    "monthly": "Rp 3,44 jt/bln"
+  },
+  {
+    "name": "2016 Suzuki SX4 S-CROSS 1.5",
+    "detail1": ["91.268 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 158.000.000 Rp 3,22 jt/bln",
+    "monthly": "Rp 3,22 jt/bln"
+  },
+  {
+    "name": "2014 Honda MOBILIO RS 1.5",
+    "detail1": ["120.026 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Sports Mode", "Kamera Mundur"],
+    "price": "Rp 146.000.000 Rp 2,97 jt/bln",
+    "monthly": "Rp 2,97 jt/bln"
+  },
+  {
+    "name": "2018 Hyundai SANTA FE CRDI 2.2",
+    "detail1": ["52.497 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Panoramic Sun Roof", "Electric Parking Brake"],
+    "price": "Rp 417.000.000 Rp 8,50 jt/bln",
+    "monthly": "Rp 8,50 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["51.925 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 212.000.000 Rp 4,32 jt/bln",
+    "monthly": "Rp 4,32 jt/bln"
+  },
+  {
+    "name": "2015 Nissan X-TRAIL 2.5",
+    "detail1": ["92.536 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "360 Camera View", "Map Navigator"],
+    "price": "Rp 199.000.000 Rp 4,05 jt/bln",
+    "monthly": "Rp 4,05 jt/bln"
+  },
+  {
+    "name": "2017 Honda BRIO SATYA E 1.2",
+    "detail1": ["24.658 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Sports Mode"],
+    "price": "Rp 137.000.000 Rp 2,79 jt/bln",
+    "monthly": "Rp 2,79 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["55.430 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 156.000.000 Rp 3,18 jt/bln",
+    "monthly": "Rp 3,18 jt/bln"
+  },
+  {
+    "name": "2014 Honda BRIO SATYA E 1.2",
+    "detail1": ["40.516 km", "Manual", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 106.000.000 Rp 2,16 jt/bln",
+    "monthly": "Rp 2,16 jt/bln"
+  },
+  {
+    "name": "2019 Mazda CX-5 GT 2.5",
+    "detail1": ["16.763 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Auto Retract Mirror"],
+    "price": "Rp 424.000.000 Rp 8,64 jt/bln",
+    "monthly": "Rp 8,64 jt/bln"
+  },
+  {
+    "name": "2015 Toyota AGYA G 1.0",
+    "detail1": ["48.952 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 110.000.000 Rp 2,24 jt/bln",
+    "monthly": "Rp 2,24 jt/bln"
+  },
+  {
+    "name": "2020 Honda MOBILIO RS 1.5",
+    "detail1": ["70.213 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 193.000.000 Rp 3,93 jt/bln",
+    "monthly": "Rp 3,93 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO SATYA E 1.2",
+    "detail1": ["22.059 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 162.000.000 Rp 3,30 jt/bln",
+    "monthly": "Rp 3,30 jt/bln"
+  },
+  {
+    "name": "2021 Suzuki XL7 BETA 1.5",
+    "detail1": ["42.044 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 209.000.000 Rp 4,26 jt/bln",
+    "monthly": "Rp 4,26 jt/bln"
+  },
+  {
+    "name": "2017 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["68.413 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 203.000.000 Rp 4,14 jt/bln",
+    "monthly": "Rp 4,14 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki ERTIGA SPORT GT 1.5",
+    "detail1": ["25.127 km", "Manual", "Jakarta Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 187.000.000 Rp 3,81 jt/bln",
+    "monthly": "Rp 3,81 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO RS 1.2",
+    "detail1": ["55.434 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 181.000.000 Rp 3,69 jt/bln",
+    "monthly": "Rp 3,69 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["50.764 km", "Automatic", "Depok"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 212.000.000 Rp 4,32 jt/bln",
+    "monthly": "Rp 4,32 jt/bln"
+  },
+  {
+    "name": "2019 Toyota CALYA G 1.2",
+    "detail1": ["90.659 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 132.000.000 Rp 2,69 jt/bln",
+    "monthly": "Rp 2,69 jt/bln"
+  },
+  {
+    "name": "2013 Toyota KIJANG INNOVA V 2.0",
+    "detail1": ["158.669 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Retract Mirror"],
+    "price": "Rp 178.000.000 Rp 3,63 jt/bln",
+    "monthly": "Rp 3,63 jt/bln"
+  },
+  {
+    "name": "2021 Wuling CORTEZ S T LUX 1.5",
+    "detail1": ["26.527 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Ganjil", "Keyless Push Start", "Kamera Mundur"],
+    "price": "Rp 179.000.000 Rp 3,65 jt/bln",
+    "monthly": "Rp 3,65 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO SATYA E 1.2",
+    "detail1": ["22.928 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 163.000.000 Rp 3,32 jt/bln",
+    "monthly": "Rp 3,32 jt/bln"
+  },
+  {
+    "name": "2017 Mazda CX-5 ELITE 2.5",
+    "detail1": ["44.889 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Auto Retract Mirror", "Power Back Door"],
+    "price": "Rp 373.000.000 Rp 7,60 jt/bln",
+    "monthly": "Rp 7,60 jt/bln"
+  },
+  {
+    "name": "2017 Toyota SIENTA Q 1.5",
+    "detail1": ["112.207 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 186.000.000 Rp 3,79 jt/bln",
+    "monthly": "Rp 3,79 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO SATYA E 1.2",
+    "detail1": ["35.961 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 149.000.000 Rp 3,04 jt/bln",
+    "monthly": "Rp 3,04 jt/bln"
+  },
+  {
+    "name": "2018 Toyota KIJANG INNOVA VENTURER 2.0",
+    "detail1": ["97.032 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 324.000.000 Rp 6,60 jt/bln",
+    "monthly": "Rp 6,60 jt/bln"
+  },
+  {
+    "name": "2019 Wuling CONFERO S L 1.5",
+    "detail1": ["67.690 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 119.000.000 Rp 2,42 jt/bln",
+    "monthly": "Rp 2,42 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER EXCEED 1.5",
+    "detail1": ["81.128 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 191.000.000 Rp 3,89 jt/bln",
+    "monthly": "Rp 3,89 jt/bln"
+  },
+  {
+    "name": "2017 Toyota KIJANG INNOVA REBORN VENTURER GASOLINE 2.0",
+    "detail1": ["79.013 km", "Automatic", "Depok"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 317.000.000 Rp 6,46 jt/bln",
+    "monthly": "Rp 6,46 jt/bln"
+  },
+  {
+    "name": "2020 Toyota YARIS S TRD 1.5",
+    "detail1": ["61.487 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 228.000.000 Rp 4,65 jt/bln",
+    "monthly": "Rp 4,65 jt/bln"
+  },
+  {
+    "name": "2016 Honda BRIO SATYA E 1.2",
+    "detail1": ["97.128 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 127.000.000 Rp 2,59 jt/bln",
+    "monthly": "Rp 2,59 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER SPORT 1.5",
+    "detail1": ["80.941 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 198.000.000 Rp 4,03 jt/bln",
+    "monthly": "Rp 4,03 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki ERTIGA GX 1.5",
+    "detail1": ["78.531 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 183.000.000 Rp 3,73 jt/bln",
+    "monthly": "Rp 3,73 jt/bln"
+  },
+  {
+    "name": "2017 Toyota KIJANG INNOVA REBORN G 2.0",
+    "detail1": ["89.457 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Retract Mirror"],
+    "price": "Rp 251.000.000 Rp 5,11 jt/bln",
+    "monthly": "Rp 5,11 jt/bln"
+  },
+  {
+    "name": "2017 Toyota SIENTA V 1.5",
+    "detail1": ["111.609 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 174.000.000 Rp 3,55 jt/bln",
+    "monthly": "Rp 3,55 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO RS 1.2",
+    "detail1": ["50.261 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 185.000.000 Rp 3,77 jt/bln",
+    "monthly": "Rp 3,77 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO SATYA E 1.2",
+    "detail1": ["43.337 km", "Automatic", "Jakarta Pusat"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 162.000.000 Rp 3,30 jt/bln",
+    "monthly": "Rp 3,30 jt/bln"
+  },
+  {
+    "name": "2019 Honda BR-V PRESTIGE 1.5",
+    "detail1": ["41.412 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 210.000.000 Rp 4,28 jt/bln",
+    "monthly": "Rp 4,28 jt/bln"
+  },
+  {
+    "name": "2021 Honda CITY RS HATCHBACK 1.5",
+    "detail1": ["30.492 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 270.000.000 Rp 5,50 jt/bln",
+    "monthly": "Rp 5,50 jt/bln"
+  },
+  {
+    "name": "2020 Honda HR-V E PLUS 1.5",
+    "detail1": ["42.850 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Electric Parking Brake"],
+    "price": "Rp 282.000.000 Rp 5,75 jt/bln",
+    "monthly": "Rp 5,75 jt/bln"
+  },
+  {
+    "name": "2017 Suzuki IGNIS GX 1.2",
+    "detail1": ["88.669 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 120.000.000 Rp 2,44 jt/bln",
+    "monthly": "Rp 2,44 jt/bln"
+  },
+  {
+    "name": "2016 Nissan X-TRAIL 2.5",
+    "detail1": ["110.956 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Power Back Door"],
+    "price": "Rp 210.000.000 Rp 4,28 jt/bln",
+    "monthly": "Rp 4,28 jt/bln"
+  },
+  {
+    "name": "2016 Suzuki ERTIGA DREZA GS 1.4",
+    "detail1": ["95.539 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Retract Mirror"],
+    "price": "Rp 158.000.000 Rp 3,22 jt/bln",
+    "monthly": "Rp 3,22 jt/bln"
+  },
+  {
+    "name": "2017 Mazda BIANTE SKYACTIV 2.0",
+    "detail1": ["48.097 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Power Sliding Door", "Retract Mirror"],
+    "price": "Rp 223.000.000 Rp 4,54 jt/bln",
+    "monthly": "Rp 4,54 jt/bln"
+  },
+  {
+    "name": "2015 Nissan GRAND LIVINA SV 1.5",
+    "detail1": ["104.054 km", "Manual", "Bogor"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 116.000.000 Rp 2,36 jt/bln",
+    "monthly": "Rp 2,36 jt/bln"
+  },
+  {
+    "name": "2018 Mazda CX-3 TOURING 2.0",
+    "detail1": ["73.975 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 278.000.000 Rp 5,66 jt/bln",
+    "monthly": "Rp 5,66 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["60.960 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Auto Retract Mirror", "Auto Cruise Control"],
+    "price": "Rp 214.000.000 Rp 4,36 jt/bln",
+    "monthly": "Rp 4,36 jt/bln"
+  },
+  {
+    "name": "2017 Nissan MARCH 1.2",
+    "detail1": ["57.201 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap", "Kamera Mundur"],
+    "price": "Rp 121.000.000 Rp 2,47 jt/bln",
+    "monthly": "Rp 2,47 jt/bln"
+  },
+  {
+    "name": "2017 Daihatsu XENIA R 1.3",
+    "detail1": ["109.214 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 138.000.000 Rp 2,81 jt/bln",
+    "monthly": "Rp 2,81 jt/bln"
+  },
+  {
+    "name": "2017 Mitsubishi XPANDER SPORT 1.5",
+    "detail1": ["58.277 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 197.000.000 Rp 4,01 jt/bln",
+    "monthly": "Rp 4,01 jt/bln"
+  },
+  {
+    "name": "2020 Suzuki ERTIGA GX 1.5",
+    "detail1": ["35.385 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 197.000.000 Rp 4,01 jt/bln",
+    "monthly": "Rp 4,01 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu XENIA R SPORTY 1.3",
+    "detail1": ["70.926 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Map Navigator", "Kamera Mundur"],
+    "price": "Rp 156.000.000 Rp 3,18 jt/bln",
+    "monthly": "Rp 3,18 jt/bln"
+  },
+  {
+    "name": "2019 Toyota AVANZA G 1.3",
+    "detail1": ["78.434 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror"],
+    "price": "Rp 179.000.000 Rp 3,65 jt/bln",
+    "monthly": "Rp 3,65 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["79.325 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Sports Mode"],
+    "price": "Rp 156.000.000 Rp 3,18 jt/bln",
+    "monthly": "Rp 3,18 jt/bln"
+  },
+  {
+    "name": "2018 Wuling CONFERO S 1.5",
+    "detail1": ["91.501 km", "Manual", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Kamera Mundur"],
+    "price": "Rp 105.000.000 Rp 2,14 jt/bln",
+    "monthly": "Rp 2,14 jt/bln"
+  },
+  {
+    "name": "2019 Toyota SIENTA G 1.5",
+    "detail1": ["35.480 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Power Sliding Door", "Sports Mode"],
+    "price": "Rp 187.000.000 Rp 3,81 jt/bln",
+    "monthly": "Rp 3,81 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO SATYA E 1.2",
+    "detail1": ["81.964 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Sports Mode"],
+    "price": "Rp 141.000.000 Rp 2,87 jt/bln",
+    "monthly": "Rp 2,87 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["34.001 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 158.000.000 Rp 3,22 jt/bln",
+    "monthly": "Rp 3,22 jt/bln"
+  },
+  {
+    "name": "2019 Honda BR-V E 1.5",
+    "detail1": ["21.707 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 203.000.000 Rp 4,14 jt/bln",
+    "monthly": "Rp 4,14 jt/bln"
+  },
+  {
+    "name": "2014 Honda MOBILIO E PRESTIGE 1.5",
+    "detail1": ["96.773 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Sports Mode", "Kamera Mundur"],
+    "price": "Rp 138.000.000 Rp 2,81 jt/bln",
+    "monthly": "Rp 2,81 jt/bln"
+  },
+  {
+    "name": "2018 Toyota SIENTA G 1.5",
+    "detail1": ["94.182 km", "Automatic", "Depok"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Power Sliding Door"],
+    "price": "Rp 168.000.000 Rp 3,42 jt/bln",
+    "monthly": "Rp 3,42 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["98.215 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Auto Cruise Control"],
+    "price": "Rp 212.000.000 Rp 4,32 jt/bln",
+    "monthly": "Rp 4,32 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu AYLA R 1.2",
+    "detail1": ["74.372 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 124.000.000 Rp 2,53 jt/bln",
+    "monthly": "Rp 2,53 jt/bln"
+  },
+  {
+    "name": "2014 Nissan MARCH 1.5",
+    "detail1": ["74.562 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Vehicle Stability Control", "Keyless Push Start"],
+    "price": "Rp 126.000.000 Rp 2,57 jt/bln",
+    "monthly": "Rp 2,57 jt/bln"
+  },
+  {
+    "name": "2018 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["30.977 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 212.000.000 Rp 4,32 jt/bln",
+    "monthly": "Rp 4,32 jt/bln"
+  },
+  {
+    "name": "2017 Nissan MARCH 1.2",
+    "detail1": ["19.223 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah"],
+    "price": "Rp 124.000.000 Rp 2,53 jt/bln",
+    "monthly": "Rp 2,53 jt/bln"
+  },
+  {
+    "name": "2022 Toyota FORTUNER VRZ GR SPORT 2.8",
+    "detail1": ["15.713 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Auto Retract Mirror"],
+    "price": "Rp 542.000.000 Rp 11,04 jt/bln",
+    "monthly": "Rp 11,04 jt/bln"
+  },
+  {
+    "name": "2019 Toyota KIJANG INNOVA REBORN V 2.0",
+    "detail1": ["65.076 km", "Automatic", "Jakarta Pusat"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 315.000.000 Rp 6,42 jt/bln",
+    "monthly": "Rp 6,42 jt/bln"
+  },
+  {
+    "name": "2019 Mitsubishi XPANDER EXCEED 1.5",
+    "detail1": ["56.425 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror"],
+    "price": "Rp 205.000.000 Rp 4,18 jt/bln",
+    "monthly": "Rp 4,18 jt/bln"
+  },
+  {
+    "name": "2019 Toyota AVANZA G 1.3",
+    "detail1": ["58.385 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror"],
+    "price": "Rp 177.000.000 Rp 3,61 jt/bln",
+    "monthly": "Rp 3,61 jt/bln"
+  },
+  {
+    "name": "2021 Toyota KIJANG INNOVA G 2.0",
+    "detail1": ["32.582 km", "Automatic", "Depok"],
+    "detail2": ["Plat Ganjil", "Sports Mode", "Kamera Mundur"],
+    "price": "Rp 319.000.000 Rp 6,50 jt/bln",
+    "monthly": "Rp 6,50 jt/bln"
+  },
+  {
+    "name": "2014 Honda MOBILIO E 1.5",
+    "detail1": ["91.739 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Sports Mode"],
+    "price": "Rp 132.000.000 Rp 2,69 jt/bln",
+    "monthly": "Rp 2,69 jt/bln"
+  },
+  {
+    "name": "2023 Suzuki S-PRESSO 1.0",
+    "detail1": ["245 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Vehicle Stability Control"],
+    "price": "Rp 145.000.000 Rp 2,95 jt/bln",
+    "monthly": "Rp 2,95 jt/bln"
+  },
+  {
+    "name": "2014 Toyota KIJANG INNOVA G 2.0",
+    "detail1": ["139.609 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 180.000.000 Rp 3,67 jt/bln",
+    "monthly": "Rp 3,67 jt/bln"
+  },
+  {
+    "name": "2017 Suzuki IGNIS GX 1.2",
+    "detail1": ["113.568 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 129.000.000 Rp 2,63 jt/bln",
+    "monthly": "Rp 2,63 jt/bln"
+  },
+  {
+    "name": "2019 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["71.110 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Auto Cruise Control"],
+    "price": "Rp 222.000.000 Rp 4,52 jt/bln",
+    "monthly": "Rp 4,52 jt/bln"
+  },
+  {
+    "name": "2020 Daihatsu TERIOS X DLX 1.5",
+    "detail1": ["38.952 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur"],
+    "price": "Rp 204.000.000 Rp 4,16 jt/bln",
+    "monthly": "Rp 4,16 jt/bln"
+  },
+  {
+    "name": "2019 Toyota AGYA G TRD 1.2",
+    "detail1": ["34.243 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 135.000.000 Rp 2,75 jt/bln",
+    "monthly": "Rp 2,75 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO SATYA E 1.2",
+    "detail1": ["40.661 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 146.000.000 Rp 2,97 jt/bln",
+    "monthly": "Rp 2,97 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER SPORT 1.5",
+    "detail1": ["89.474 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 203.000.000 Rp 4,14 jt/bln",
+    "monthly": "Rp 4,14 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["85.438 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 214.000.000 Rp 4,36 jt/bln",
+    "monthly": "Rp 4,36 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["65.729 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 215.000.000 Rp 4,38 jt/bln",
+    "monthly": "Rp 4,38 jt/bln"
+  },
+  {
+    "name": "2019 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["66.213 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Auto Cruise Control"],
+    "price": "Rp 224.000.000 Rp 4,56 jt/bln",
+    "monthly": "Rp 4,56 jt/bln"
+  },
+  {
+    "name": "2019 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["76.021 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Auto Cruise Control"],
+    "price": "Rp 223.000.000 Rp 4,54 jt/bln",
+    "monthly": "Rp 4,54 jt/bln"
+  },
+  {
+    "name": "2016 Toyota KIJANG INNOVA Q 2.0",
+    "detail1": ["91.500 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 285.000.000 Rp 5,81 jt/bln",
+    "monthly": "Rp 5,81 jt/bln"
+  },
+  {
+    "name": "2017 Suzuki BALENO HATCHBACK 1.4",
+    "detail1": ["91.044 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 161.000.000 Rp 3,28 jt/bln",
+    "monthly": "Rp 3,28 jt/bln"
+  },
+  {
+    "name": "2017 Toyota KIJANG INNOVA REBORN V 2.0",
+    "detail1": ["97.991 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 277.000.000 Rp 5,64 jt/bln",
+    "monthly": "Rp 5,64 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO RS 1.2",
+    "detail1": ["77.208 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 180.000.000 Rp 3,67 jt/bln",
+    "monthly": "Rp 3,67 jt/bln"
+  },
+  {
+    "name": "2019 Toyota SIENTA V 1.5",
+    "detail1": ["43.520 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Power Sliding Door"],
+    "price": "Rp 198.000.000 Rp 4,03 jt/bln",
+    "monthly": "Rp 4,03 jt/bln"
+  },
+  {
+    "name": "2019 Mitsubishi XPANDER EXCEED 1.5",
+    "detail1": ["64.707 km", "Automatic", "Jakarta Pusat"],
+    "detail2": ["Plat Genap", "Retract Mirror"],
+    "price": "Rp 206.000.000 Rp 4,20 jt/bln",
+    "monthly": "Rp 4,20 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["98.408 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 211.000.000 Rp 4,30 jt/bln",
+    "monthly": "Rp 4,30 jt/bln"
+  },
+  {
+    "name": "2018 Toyota AGYA G TRD 1.2",
+    "detail1": ["44.496 km", "Automatic", "Jakarta Pusat"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 132.000.000 Rp 2,69 jt/bln",
+    "monthly": "Rp 2,69 jt/bln"
+  },
+  {
+    "name": "2019 Nissan SERENA HIGHWAY STAR 2.0",
+    "detail1": ["31.620 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 326.000.000 Rp 6,64 jt/bln",
+    "monthly": "Rp 6,64 jt/bln"
+  },
+  {
+    "name": "2018 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["77.776 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 213.000.000 Rp 4,34 jt/bln",
+    "monthly": "Rp 4,34 jt/bln"
+  },
+  {
+    "name": "2014 Daihatsu XENIA R DLX 1.3",
+    "detail1": ["48.788 km", "Manual", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 124.000.000 Rp 2,53 jt/bln",
+    "monthly": "Rp 2,53 jt/bln"
+  },
+  {
+    "name": "2013 Nissan MARCH 1.2",
+    "detail1": ["135.982 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 96.000.000 Rp 1,96 jt/bln",
+    "monthly": "Rp 1,96 jt/bln"
+  },
+  {
+    "name": "2015 Honda MOBILIO E 1.5",
+    "detail1": ["112.025 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 141.000.000 Rp 2,87 jt/bln",
+    "monthly": "Rp 2,87 jt/bln"
+  },
+  {
+    "name": "2017 Toyota FORTUNER VRZ 4X2 2.4",
+    "detail1": ["95.495 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Sports Mode"],
+    "price": "Rp 380.000.000 Rp 7,74 jt/bln",
+    "monthly": "Rp 7,74 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO RS 1.2",
+    "detail1": ["64.136 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 180.000.000 Rp 3,67 jt/bln",
+    "monthly": "Rp 3,67 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO RS 1.2",
+    "detail1": ["11.320 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Kamera Mundur"],
+    "price": "Rp 188.000.000 Rp 3,83 jt/bln",
+    "monthly": "Rp 3,83 jt/bln"
+  },
+  {
+    "name": "2018 Toyota YARIS S TRD 1.5",
+    "detail1": ["32.892 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 211.000.000 Rp 4,30 jt/bln",
+    "monthly": "Rp 4,30 jt/bln"
+  },
+  {
+    "name": "2015 Daihatsu TERIOS ADVENTURE R 1.5",
+    "detail1": ["110.660 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 154.000.000 Rp 3,14 jt/bln",
+    "monthly": "Rp 3,14 jt/bln"
+  },
+  {
+    "name": "2018 Toyota AVANZA VELOZ 1.3",
+    "detail1": ["62.536 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 170.000.000 Rp 3,46 jt/bln",
+    "monthly": "Rp 3,46 jt/bln"
+  },
+  {
+    "name": "2018 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["66.337 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 213.000.000 Rp 4,34 jt/bln",
+    "monthly": "Rp 4,34 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO SATYA E 1.2",
+    "detail1": ["28.648 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 166.000.000 Rp 3,38 jt/bln",
+    "monthly": "Rp 3,38 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi PAJERO SPORT DAKAR 4X2 2.4",
+    "detail1": ["60.880 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 429.000.000 Rp 8,74 jt/bln",
+    "monthly": "Rp 8,74 jt/bln"
+  },
+  {
+    "name": "2018 Toyota KIJANG INNOVA Q 2.0",
+    "detail1": ["64.583 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur", "Sports Mode"],
+    "price": "Rp 317.000.000 Rp 6,46 jt/bln",
+    "monthly": "Rp 6,46 jt/bln"
+  },
+  {
+    "name": "2020 Daihatsu TERIOS R DLX 1.5",
+    "detail1": ["68.981 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "360 Camera View", "Retract Mirror"],
+    "price": "Rp 217.000.000 Rp 4,42 jt/bln",
+    "monthly": "Rp 4,42 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO RS 1.2",
+    "detail1": ["41.984 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 152.000.000 Rp 3,10 jt/bln",
+    "monthly": "Rp 3,10 jt/bln"
+  },
+  {
+    "name": "2019 Chevrolet SPARK PREMIER 1.4",
+    "detail1": ["16.685 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Vehicle Stability Control"],
+    "price": "Rp 139.000.000 Rp 2,83 jt/bln",
+    "monthly": "Rp 2,83 jt/bln"
+  },
+  {
+    "name": "2019 Nissan LIVINA VL 1.5",
+    "detail1": ["30.482 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 201.000.000 Rp 4,10 jt/bln",
+    "monthly": "Rp 4,10 jt/bln"
+  },
+  {
+    "name": "2021 Suzuki CARRY PICK UP 1.5",
+    "detail1": ["1.699 km", "Manual", "Depok"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 102.000.000 Rp 2,08 jt/bln",
+    "monthly": "Rp 2,08 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO SATYA E 1.2",
+    "detail1": ["69.603 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 155.000.000 Rp 3,16 jt/bln",
+    "monthly": "Rp 3,16 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO SATYA E 1.2",
+    "detail1": ["43.996 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur", "Sports Mode"],
+    "price": "Rp 144.000.000 Rp 2,93 jt/bln",
+    "monthly": "Rp 2,93 jt/bln"
+  },
+  {
+    "name": "2017 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["41.790 km", "Automatic", "Depok"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 211.000.000 Rp 4,30 jt/bln",
+    "monthly": "Rp 4,30 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["84.753 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 213.000.000 Rp 4,34 jt/bln",
+    "monthly": "Rp 4,34 jt/bln"
+  },
+  {
+    "name": "2021 Toyota AGYA G TRD SPORTIVO 1.2",
+    "detail1": ["40.040 km", "Automatic", "Depok"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 148.000.000 Rp 3,02 jt/bln",
+    "monthly": "Rp 3,02 jt/bln"
+  },
+  {
+    "name": "2017 Toyota AVANZA G 1.3",
+    "detail1": ["88.066 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 152.000.000 Rp 3,10 jt/bln",
+    "monthly": "Rp 3,10 jt/bln"
+  },
+  {
+    "name": "2020 Toyota AVANZA E 1.3",
+    "detail1": ["52.800 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 172.000.000 Rp 3,50 jt/bln",
+    "monthly": "Rp 3,50 jt/bln"
+  },
+  {
+    "name": "2016 Toyota KIJANG INNOVA G 2.0",
+    "detail1": ["119.413 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 242.000.000 Rp 4,93 jt/bln",
+    "monthly": "Rp 4,93 jt/bln"
+  },
+  {
+    "name": "2017 Toyota FORTUNER VRZ 4X2 2.4",
+    "detail1": ["51.475 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 390.000.000 Rp 7,95 jt/bln",
+    "monthly": "Rp 7,95 jt/bln"
+  },
+  {
+    "name": "2017 Toyota KIJANG INNOVA REBORN G 2.0",
+    "detail1": ["46.010 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 261.000.000 Rp 5,32 jt/bln",
+    "monthly": "Rp 5,32 jt/bln"
+  },
+  {
+    "name": "2016 Honda BRIO SATYA E 1.2",
+    "detail1": ["15.393 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Sports Mode"],
+    "price": "Rp 131.000.000 Rp 2,67 jt/bln",
+    "monthly": "Rp 2,67 jt/bln"
+  },
+  {
+    "name": "2014 Honda BRIO E 1.2",
+    "detail1": ["30.466 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 121.000.000 Rp 2,47 jt/bln",
+    "monthly": "Rp 2,47 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO SATYA E 1.2",
+    "detail1": ["11.054 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Sports Mode"],
+    "price": "Rp 164.000.000 Rp 3,34 jt/bln",
+    "monthly": "Rp 3,34 jt/bln"
+  },
+  {
+    "name": "2014 Mazda CX-5 HIGH 2.5",
+    "detail1": ["81.916 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Sun Roof"],
+    "price": "Rp 200.000.000 Rp 4,08 jt/bln",
+    "monthly": "Rp 4,08 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki ERTIGA SPORT GT 1.5",
+    "detail1": ["56.760 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 201.000.000 Rp 4,10 jt/bln",
+    "monthly": "Rp 4,10 jt/bln"
+  },
+  {
+    "name": "2022 Honda BRIO SATYA E 1.2",
+    "detail1": ["3.574 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Sports Mode"],
+    "price": "Rp 172.000.000 Rp 3,50 jt/bln",
+    "monthly": "Rp 3,50 jt/bln"
+  },
+  {
+    "name": "2021 Toyota RAIZE GR 1.0",
+    "detail1": ["19.809 km", "Automatic", "Depok"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Auto Retract Mirror"],
+    "price": "Rp 223.000.000 Rp 4,54 jt/bln",
+    "monthly": "Rp 4,54 jt/bln"
+  },
+  {
+    "name": "2018 Suzuki IGNIS GL 1.2",
+    "detail1": ["60.258 km", "Automatic", "Depok"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 130.000.000 Rp 2,65 jt/bln",
+    "monthly": "Rp 2,65 jt/bln"
+  },
+  {
+    "name": "2016 Mazda 2 R SKYACTIV 1.5",
+    "detail1": ["72.706 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 190.000.000 Rp 3,87 jt/bln",
+    "monthly": "Rp 3,87 jt/bln"
+  },
+  {
+    "name": "2018 Toyota KIJANG INNOVA G 2.0",
+    "detail1": ["71.225 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 263.000.000 Rp 5,36 jt/bln",
+    "monthly": "Rp 5,36 jt/bln"
+  },
+  {
+    "name": "2019 Honda BR-V PRESTIGE 1.5",
+    "detail1": ["67.177 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 213.000.000 Rp 4,34 jt/bln",
+    "monthly": "Rp 4,34 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["18.602 km", "Automatic", "Depok"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Kamera Mundur"],
+    "price": "Rp 160.000.000 Rp 3,26 jt/bln",
+    "monthly": "Rp 3,26 jt/bln"
+  },
+  {
+    "name": "2020 Daihatsu SIGRA R STD 1.2",
+    "detail1": ["11.448 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Retract Mirror"],
+    "price": "Rp 129.000.000 Rp 2,63 jt/bln",
+    "monthly": "Rp 2,63 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["56.645 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 159.000.000 Rp 3,24 jt/bln",
+    "monthly": "Rp 3,24 jt/bln"
+  },
+  {
+    "name": "2014 Ford ECOSPORT TITANIUM 1.5",
+    "detail1": ["123.661 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 121.000.000 Rp 2,47 jt/bln",
+    "monthly": "Rp 2,47 jt/bln"
+  },
+  {
+    "name": "2017 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["87.660 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 209.000.000 Rp 4,26 jt/bln",
+    "monthly": "Rp 4,26 jt/bln"
+  },
+  {
+    "name": "2015 Nissan GRAND LIVINA HIGHWAY STAR 1.5",
+    "detail1": ["63.625 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 132.000.000 Rp 2,69 jt/bln",
+    "monthly": "Rp 2,69 jt/bln"
+  },
+  {
+    "name": "2016 Nissan SERENA HIGHWAY STAR 2.0",
+    "detail1": ["108.956 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 224.000.000 Rp 4,56 jt/bln",
+    "monthly": "Rp 4,56 jt/bln"
+  },
+  {
+    "name": "2022 Daihatsu ROCKY X 1.2",
+    "detail1": ["19.031 km", "Automatic"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah"],
+    "price": "Rp 200.000.000 Rp 4,08 jt/bln",
+    "monthly": "Rp 4,08 jt/bln"
+  },
+  {
+    "name": "2021 Daihatsu SIRION 1.3",
+    "detail1": ["13.371 km", "Automatic"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah"],
+    "price": "Rp 177.000.000 Rp 3,61 jt/bln",
+    "monthly": "Rp 3,61 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu TERIOS R 1.5",
+    "detail1": ["66.848 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 209.000.000 Rp 4,26 jt/bln",
+    "monthly": "Rp 4,26 jt/bln"
+  },
+  {
+    "name": "2019 Datsun GO PANCA T LIVE 1.2",
+    "detail1": ["40.119 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 105.000.000 Rp 2,14 jt/bln",
+    "monthly": "Rp 2,14 jt/bln"
+  },
+  {
+    "name": "2015 Honda MOBILIO E PRESTIGE 1.5",
+    "detail1": ["88.166 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 144.000.000 Rp 2,93 jt/bln",
+    "monthly": "Rp 2,93 jt/bln"
+  },
+  {
+    "name": "2016 Honda BRIO RS 1.2",
+    "detail1": ["65.321 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 141.000.000 Rp 2,87 jt/bln",
+    "monthly": "Rp 2,87 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["109.127 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 209.000.000 Rp 4,26 jt/bln",
+    "monthly": "Rp 4,26 jt/bln"
+  },
+  {
+    "name": "2019 Mitsubishi XPANDER CROSS 1.5",
+    "detail1": ["40.631 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 235.000.000 Rp 4,79 jt/bln",
+    "monthly": "Rp 4,79 jt/bln"
+  },
+  {
+    "name": "2014 Nissan GRAND LIVINA HIGHWAY STAR AUTECH 1.5",
+    "detail1": ["107.143 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 137.000.000 Rp 2,79 jt/bln",
+    "monthly": "Rp 2,79 jt/bln"
+  },
+  {
+    "name": "2016 Nissan GRAND LIVINA X-GEAR 1.5",
+    "detail1": ["116.892 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 135.000.000 Rp 2,75 jt/bln",
+    "monthly": "Rp 2,75 jt/bln"
+  },
+  {
+    "name": "2017 Nissan GRAND LIVINA HIGHWAY STAR AUTECH 1.5",
+    "detail1": ["117.692 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 148.000.000 Rp 3,02 jt/bln",
+    "monthly": "Rp 3,02 jt/bln"
+  },
+  {
+    "name": "2017 Nissan GRAND LIVINA HIGHWAY STAR AUTECH 1.5",
+    "detail1": ["72.181 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 156.000.000 Rp 3,18 jt/bln",
+    "monthly": "Rp 3,18 jt/bln"
+  },
+  {
+    "name": "2020 Suzuki CARRY PICK UP 1.5",
+    "detail1": ["12.639 km", "Manual"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah"],
+    "price": "Rp 109.000.000 Rp 2,22 jt/bln",
+    "monthly": "Rp 2,22 jt/bln"
+  },
+  {
+    "name": "2015 Mazda CX-5 GT 2.5",
+    "detail1": ["133.948 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 258.000.000 Rp 5,26 jt/bln",
+    "monthly": "Rp 5,26 jt/bln"
+  },
+  {
+    "name": "2019 Mitsubishi PAJERO SPORT DAKAR ULTIMATE 4X2 2.4",
+    "detail1": ["43.295 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 443.000.000 Rp 9,03 jt/bln",
+    "monthly": "Rp 9,03 jt/bln"
+  },
+  {
+    "name": "2017 Suzuki ERTIGA GL 1.4",
+    "detail1": ["56.500 km", "Manual"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 141.000.000 Rp 2,87 jt/bln",
+    "monthly": "Rp 2,87 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["38.479 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 161.000.000 Rp 3,28 jt/bln",
+    "monthly": "Rp 3,28 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["44.459 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 160.000.000 Rp 3,26 jt/bln",
+    "monthly": "Rp 3,26 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["68.667 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 159.000.000 Rp 3,24 jt/bln",
+    "monthly": "Rp 3,24 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO RS 1.2",
+    "detail1": ["39.029 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 185.000.000 Rp 3,77 jt/bln",
+    "monthly": "Rp 3,77 jt/bln"
+  },
+  {
+    "name": "2017 Honda BR-V E 1.5",
+    "detail1": ["102.450 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 175.000.000 Rp 3,57 jt/bln",
+    "monthly": "Rp 3,57 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER EXCEED 1.5",
+    "detail1": ["39.319 km", "Manual"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 197.000.000 Rp 4,01 jt/bln",
+    "monthly": "Rp 4,01 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["44.905 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 212.000.000 Rp 4,32 jt/bln",
+    "monthly": "Rp 4,32 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["46.354 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 212.000.000 Rp 4,32 jt/bln",
+    "monthly": "Rp 4,32 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["57.312 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 212.000.000 Rp 4,32 jt/bln",
+    "monthly": "Rp 4,32 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["47.160 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 212.000.000 Rp 4,32 jt/bln",
+    "monthly": "Rp 4,32 jt/bln"
+  },
+  {
+    "name": "2014 Toyota AVANZA G 1.3",
+    "detail1": ["99.455 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 122.000.000 Rp 2,49 jt/bln",
+    "monthly": "Rp 2,49 jt/bln"
+  },
+  {
+    "name": "2018 Toyota AVANZA G 1.3",
+    "detail1": ["48.183 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 161.000.000 Rp 3,28 jt/bln",
+    "monthly": "Rp 3,28 jt/bln"
+  },
+  {
+    "name": "2019 Toyota AVANZA G 1.3",
+    "detail1": ["58.620 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 181.000.000 Rp 3,69 jt/bln",
+    "monthly": "Rp 3,69 jt/bln"
+  },
+  {
+    "name": "2019 Toyota AVANZA G 1.3",
+    "detail1": ["38.337 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 182.000.000 Rp 3,71 jt/bln",
+    "monthly": "Rp 3,71 jt/bln"
+  },
+  {
+    "name": "2016 Toyota KIJANG INNOVA V 2.0",
+    "detail1": ["104.396 km", "Manual"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 256.000.000 Rp 5,22 jt/bln",
+    "monthly": "Rp 5,22 jt/bln"
+  },
+  {
+    "name": "2018 Toyota CALYA G 1.2",
+    "detail1": ["87.820 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 124.000.000 Rp 2,53 jt/bln",
+    "monthly": "Rp 2,53 jt/bln"
+  },
+  {
+    "name": "2013 Toyota KIJANG INNOVA G 2.0",
+    "detail1": ["135.311 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 171.000.000 Rp 3,48 jt/bln",
+    "monthly": "Rp 3,48 jt/bln"
+  },
+  {
+    "name": "2019 Toyota KIJANG INNOVA REBORN G 2.4",
+    "detail1": ["28.368 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 339.000.000 Rp 6,91 jt/bln",
+    "monthly": "Rp 6,91 jt/bln"
+  },
+  {
+    "name": "2021 Toyota RAIZE TURBO G 1.0",
+    "detail1": ["38.998 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 210.000.000 Rp 4,28 jt/bln",
+    "monthly": "Rp 4,28 jt/bln"
+  },
+  {
+    "name": "2018 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["78.657 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 212.000.000 Rp 4,32 jt/bln",
+    "monthly": "Rp 4,32 jt/bln"
+  },
+  {
+    "name": "2016 Toyota SIENTA V 1.5",
+    "detail1": ["84.583 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 174.000.000 Rp 3,55 jt/bln",
+    "monthly": "Rp 3,55 jt/bln"
+  },
+  {
+    "name": "2018 Toyota SIENTA V 1.5",
+    "detail1": ["104.099 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 186.000.000 Rp 3,79 jt/bln",
+    "monthly": "Rp 3,79 jt/bln"
+  },
+  {
+    "name": "2019 Toyota YARIS S TRD 1.5",
+    "detail1": ["58.435 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 221.000.000 Rp 4,50 jt/bln",
+    "monthly": "Rp 4,50 jt/bln"
+  },
+  {
+    "name": "2017 Mitsubishi XPANDER SPORT 1.5",
+    "detail1": ["41.420 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 199.000.000 Rp 4,05 jt/bln",
+    "monthly": "Rp 4,05 jt/bln"
+  },
+  {
+    "name": "2019 Wuling CONFERO S 1.5",
+    "detail1": ["50.614 km", "Manual"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 109.000.000 Rp 2,22 jt/bln",
+    "monthly": "Rp 2,22 jt/bln"
+  },
+  {
+    "name": "2019 Toyota CALYA E 1.2",
+    "detail1": ["77.701 km", "Manual"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 120.000.000 Rp 2,44 jt/bln",
+    "monthly": "Rp 2,44 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["60.933 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 210.000.000 Rp 4,28 jt/bln",
+    "monthly": "Rp 4,28 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki ERTIGA GX 1.5",
+    "detail1": ["58.082 km", "Manual"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 178.000.000 Rp 3,63 jt/bln",
+    "monthly": "Rp 3,63 jt/bln"
+  },
+  {
+    "name": "2019 Toyota KIJANG INNOVA REBORN G 2.0",
+    "detail1": ["86.381 km", "Automatic"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 281.000.000 Rp 5,73 jt/bln",
+    "monthly": "Rp 5,73 jt/bln"
+  },
+  {
+    "name": "2016 Datsun GO+ PANCA T 1.2",
+    "detail1": ["24.909 km", "Manual"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 78.000.000 Rp 1,59 jt/bln",
+    "monthly": "Rp 1,59 jt/bln"
+  },
+  {
+    "name": "2016 Mazda 2 GT 1.5",
+    "detail1": ["82.938 km", "Automatic"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 187.000.000 Rp 3,81 jt/bln",
+    "monthly": "Rp 3,81 jt/bln"
+  },
+  {
+    "name": "2017 Honda JAZZ RS 1.5",
+    "detail1": ["83.487 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Auto Cruise Control", "Paddle Shift"],
+    "price": "Rp 210.000.000 Rp 4,28 jt/bln",
+    "monthly": "Rp 4,28 jt/bln"
+  },
+  {
+    "name": "2019 Nissan LIVINA VL 1.5",
+    "detail1": ["71.142 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Keyless Push Start", "Kamera Mundur"],
+    "price": "Rp 179.000.000 Rp 3,65 jt/bln",
+    "monthly": "Rp 3,65 jt/bln"
+  },
+  {
+    "name": "2018 Toyota YARIS S TRD 1.5",
+    "detail1": ["78.114 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 202.000.000 Rp 4,12 jt/bln",
+    "monthly": "Rp 4,12 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO SATYA E 1.2",
+    "detail1": ["51.347 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Sports Mode"],
+    "price": "Rp 151.000.000 Rp 3,08 jt/bln",
+    "monthly": "Rp 3,08 jt/bln"
+  },
+  {
+    "name": "2016 Honda HR-V E 1.5",
+    "detail1": ["93.048 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Ganjil", "Electric Parking Brake", "Paddle Shift"],
+    "price": "Rp 195.000.000 Rp 3,97 jt/bln",
+    "monthly": "Rp 3,97 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu TERIOS R 1.5",
+    "detail1": ["93.935 km", "Automatic", "Jakarta Pusat"],
+    "detail2": ["Plat Ganjil", "Vehicle Stability Control", "Keyless Push Start"],
+    "price": "Rp 187.000.000 Rp 3,81 jt/bln",
+    "monthly": "Rp 3,81 jt/bln"
+  },
+  {
+    "name": "2021 Toyota AVANZA G 1.3",
+    "detail1": ["40.655 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror"],
+    "price": "Rp 174.000.000 Rp 3,55 jt/bln",
+    "monthly": "Rp 3,55 jt/bln"
+  },
+  {
+    "name": "2017 Toyota KIJANG INNOVA REBORN G 2.0",
+    "detail1": ["63.309 km", "Manual", "Jakarta Pusat"],
+    "detail2": ["Plat Genap", "Sports Mode"],
+    "price": "Rp 236.000.000 Rp 4,81 jt/bln",
+    "monthly": "Rp 4,81 jt/bln"
+  },
+  {
+    "name": "2019 Nissan LIVINA VL 1.5",
+    "detail1": ["51.618 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 206.000.000 Rp 4,20 jt/bln",
+    "monthly": "Rp 4,20 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO RS 1.2",
+    "detail1": ["80.163 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror"],
+    "price": "Rp 134.000.000 Rp 2,73 jt/bln",
+    "monthly": "Rp 2,73 jt/bln"
+  },
+  {
+    "name": "2018 Honda MOBILIO RS 1.5",
+    "detail1": ["36.060 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 173.000.000 Rp 3,52 jt/bln",
+    "monthly": "Rp 3,52 jt/bln"
+  },
+  {
+    "name": "2018 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["60.929 km", "Manual", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Auto Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 198.000.000 Rp 4,03 jt/bln",
+    "monthly": "Rp 4,03 jt/bln"
+  },
+  {
+    "name": "2019 Honda HR-V SE 1.5",
+    "detail1": ["59.647 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Electric Parking Brake", "Retract Mirror"],
+    "price": "Rp 258.000.000 Rp 5,26 jt/bln",
+    "monthly": "Rp 5,26 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu TERIOS R 1.5",
+    "detail1": ["53.125 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 195.000.000 Rp 3,97 jt/bln",
+    "monthly": "Rp 3,97 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO SATYA E 1.2",
+    "detail1": ["71.172 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 136.000.000 Rp 2,77 jt/bln",
+    "monthly": "Rp 2,77 jt/bln"
+  },
+  {
+    "name": "2014 Suzuki ERTIGA GX 1.4",
+    "detail1": ["121.801 km", "Automatic", "Surabaya"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 129.000.000 Rp 2,63 jt/bln",
+    "monthly": "Rp 2,63 jt/bln"
+  },
+  {
+    "name": "2016 Honda MOBILIO E 1.5",
+    "detail1": ["82.137 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Sports Mode", "Kamera Mundur"],
+    "price": "Rp 144.000.000 Rp 2,93 jt/bln",
+    "monthly": "Rp 2,93 jt/bln"
+  },
+  {
+    "name": "2019 Toyota AGYA G TRD 1.2",
+    "detail1": ["98.857 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 128.000.000 Rp 2,61 jt/bln",
+    "monthly": "Rp 2,61 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki CARRY PICK UP 1.5",
+    "detail1": ["17.670 km", "Manual", "Bandung"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah"],
+    "price": "Rp 92.000.000 Rp 1,87 jt/bln",
+    "monthly": "Rp 1,87 jt/bln"
+  },
+  {
+    "name": "2014 Toyota RUSH S 1.5",
+    "detail1": ["74.334 km", "Manual", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Retract Mirror"],
+    "price": "Rp 150.000.000 Rp 3,06 jt/bln",
+    "monthly": "Rp 3,06 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu AYLA R 1.2",
+    "detail1": ["32.662 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 116.000.000 Rp 2,36 jt/bln",
+    "monthly": "Rp 2,36 jt/bln"
+  },
+  {
+    "name": "2019 Toyota AGYA G TRD 1.2",
+    "detail1": ["16.097 km", "Manual", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah"],
+    "price": "Rp 122.000.000 Rp 2,49 jt/bln",
+    "monthly": "Rp 2,49 jt/bln"
+  },
+  {
+    "name": "2021 Toyota CALYA G 1.2",
+    "detail1": ["18.150 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Retract Mirror"],
+    "price": "Rp 142.000.000 Rp 2,89 jt/bln",
+    "monthly": "Rp 2,89 jt/bln"
+  },
+  {
+    "name": "2021 Honda HR-V E 1.5",
+    "detail1": ["38.935 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Auto Cruise Control"],
+    "price": "Rp 282.000.000 Rp 5,75 jt/bln",
+    "monthly": "Rp 5,75 jt/bln"
+  },
+  {
+    "name": "2021 Toyota KIJANG INNOVA V 2.0",
+    "detail1": ["10.962 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Retract Mirror"],
+    "price": "Rp 370.000.000 Rp 7,54 jt/bln",
+    "monthly": "Rp 7,54 jt/bln"
+  },
+  {
+    "name": "2014 Toyota FORTUNER G TRD 2.5",
+    "detail1": ["89.433 km", "Automatic", "Jakarta Pusat"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 282.000.000 Rp 5,75 jt/bln",
+    "monthly": "Rp 5,75 jt/bln"
+  },
+  {
+    "name": "2017 Honda HR-V S 1.5",
+    "detail1": ["70.953 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 197.000.000 Rp 4,01 jt/bln",
+    "monthly": "Rp 4,01 jt/bln"
+  },
+  {
+    "name": "2019 Toyota CALYA G 1.2",
+    "detail1": ["71.766 km", "Manual", "Jakarta Utara"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 126.000.000 Rp 2,57 jt/bln",
+    "monthly": "Rp 2,57 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki SX4 S-CROSS 1.5",
+    "detail1": ["35.009 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 192.000.000 Rp 3,91 jt/bln",
+    "monthly": "Rp 3,91 jt/bln"
+  },
+  {
+    "name": "2017 Suzuki KARIMUN GS 1.0",
+    "detail1": ["93.534 km", "Manual", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 92.000.000 Rp 1,87 jt/bln",
+    "monthly": "Rp 1,87 jt/bln"
+  },
+  {
+    "name": "2018 Suzuki ERTIGA GX 1.4",
+    "detail1": ["85.331 km", "Automatic", "Malang"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 160.000.000 Rp 3,26 jt/bln",
+    "monthly": "Rp 3,26 jt/bln"
+  },
+  {
+    "name": "2016 Toyota CALYA G 1.2",
+    "detail1": ["84.104 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 108.000.000 Rp 2,20 jt/bln",
+    "monthly": "Rp 2,20 jt/bln"
+  },
+  {
+    "name": "2014 Daihatsu TERIOS TX 1.5",
+    "detail1": ["101.930 km", "Manual", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 141.000.000 Rp 2,87 jt/bln",
+    "monthly": "Rp 2,87 jt/bln"
+  },
+  {
+    "name": "2020 Daihatsu SIGRA X 1.2",
+    "detail1": ["38.327 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 131.000.000 Rp 2,67 jt/bln",
+    "monthly": "Rp 2,67 jt/bln"
+  },
+  {
+    "name": "2019 Wuling ALMAZ LT LUX 1.5",
+    "detail1": ["53.501 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "360 Camera View"],
+    "price": "Rp 203.000.000 Rp 4,14 jt/bln",
+    "monthly": "Rp 4,14 jt/bln"
+  },
+  {
+    "name": "2014 Daihatsu XENIA R 1.3",
+    "detail1": ["94.869 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 116.000.000 Rp 2,36 jt/bln",
+    "monthly": "Rp 2,36 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu AYLA R 1.2",
+    "detail1": ["60.702 km", "Manual", "Depok"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 111.000.000 Rp 2,26 jt/bln",
+    "monthly": "Rp 2,26 jt/bln"
+  },
+  {
+    "name": "2021 Honda CITY RS HATCHBACK 1.5",
+    "detail1": ["41.113 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Auto Retract Mirror", "Paddle Shift"],
+    "price": "Rp 262.000.000 Rp 5,34 jt/bln",
+    "monthly": "Rp 5,34 jt/bln"
+  },
+  {
+    "name": "2019 Honda BR-V E 1.5",
+    "detail1": ["74.754 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 194.000.000 Rp 3,95 jt/bln",
+    "monthly": "Rp 3,95 jt/bln"
+  },
+  {
+    "name": "2017 Toyota CALYA G 1.2",
+    "detail1": ["67.611 km", "Manual", "Bogor"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 113.000.000 Rp 2,30 jt/bln",
+    "monthly": "Rp 2,30 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki ERTIGA SPORT GT 1.5",
+    "detail1": ["96.327 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 192.000.000 Rp 3,91 jt/bln",
+    "monthly": "Rp 3,91 jt/bln"
+  },
+  {
+    "name": "2018 Suzuki IGNIS GL 1.2",
+    "detail1": ["30.115 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 126.000.000 Rp 2,57 jt/bln",
+    "monthly": "Rp 2,57 jt/bln"
+  },
+  {
+    "name": "2016 Toyota CALYA G 1.2",
+    "detail1": ["74.535 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Kamera Mundur"],
+    "price": "Rp 106.000.000 Rp 2,16 jt/bln",
+    "monthly": "Rp 2,16 jt/bln"
+  },
+  {
+    "name": "2018 Mazda 2 GT SKYACTIV 1.5",
+    "detail1": ["45.975 km", "Automatic", "Depok"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Auto Cruise Control"],
+    "price": "Rp 209.000.000 Rp 4,26 jt/bln",
+    "monthly": "Rp 4,26 jt/bln"
+  },
+  {
+    "name": "2020 Toyota AVANZA VELOZ 1.5",
+    "detail1": ["28.514 km", "Manual", "Bandung"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 197.000.000 Rp 4,01 jt/bln",
+    "monthly": "Rp 4,01 jt/bln"
+  },
+  {
+    "name": "2021 Toyota AVANZA VELOZ 1.5",
+    "detail1": ["61.458 km", "Automatic", "Depok"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 222.000.000 Rp 4,52 jt/bln",
+    "monthly": "Rp 4,52 jt/bln"
+  },
+  {
+    "name": "2021 Honda BRIO SATYA E 1.2",
+    "detail1": ["49.424 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Sports Mode"],
+    "price": "Rp 164.000.000 Rp 3,34 jt/bln",
+    "monthly": "Rp 3,34 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki IGNIS GX 1.2",
+    "detail1": ["64.346 km", "Automatic", "Jakarta Pusat"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 141.000.000 Rp 2,87 jt/bln",
+    "monthly": "Rp 2,87 jt/bln"
+  },
+  {
+    "name": "2017 Honda HR-V E 1.5",
+    "detail1": ["61.785 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 219.000.000 Rp 4,46 jt/bln",
+    "monthly": "Rp 4,46 jt/bln"
+  },
+  {
+    "name": "2020 Honda MOBILIO S 1.5",
+    "detail1": ["50.241 km", "Manual", "Bogor"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 164.000.000 Rp 3,34 jt/bln",
+    "monthly": "Rp 3,34 jt/bln"
+  },
+  {
+    "name": "2019 Toyota CALYA G 1.2",
+    "detail1": ["54.702 km", "Manual", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 122.000.000 Rp 2,49 jt/bln",
+    "monthly": "Rp 2,49 jt/bln"
+  },
+  {
+    "name": "2018 Toyota YARIS S TRD 1.5",
+    "detail1": ["68.648 km", "Manual", "Jakarta Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 183.000.000 Rp 3,73 jt/bln",
+    "monthly": "Rp 3,73 jt/bln"
+  },
+  {
+    "name": "2017 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["59.729 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 207.000.000 Rp 4,22 jt/bln",
+    "monthly": "Rp 4,22 jt/bln"
+  },
+  {
+    "name": "2015 Honda CIVIC FB2 1.8",
+    "detail1": ["57.589 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 199.000.000 Rp 4,05 jt/bln",
+    "monthly": "Rp 4,05 jt/bln"
+  },
+  {
+    "name": "2021 Toyota RAIZE GR TWO TONE 1.0",
+    "detail1": ["15.274 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Auto Retract Mirror"],
+    "price": "Rp 224.000.000 Rp 4,56 jt/bln",
+    "monthly": "Rp 4,56 jt/bln"
+  },
+  {
+    "name": "2016 Toyota CALYA G 1.2",
+    "detail1": ["103.238 km", "Automatic", "Malang"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 113.000.000 Rp 2,30 jt/bln",
+    "monthly": "Rp 2,30 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO SATYA E 1.2",
+    "detail1": ["69.956 km", "Manual", "Bogor"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 128.000.000 Rp 2,61 jt/bln",
+    "monthly": "Rp 2,61 jt/bln"
+  },
+  {
+    "name": "2018 Honda MOBILIO E 1.5",
+    "detail1": ["51.833 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Sports Mode", "Kamera Mundur"],
+    "price": "Rp 164.000.000 Rp 3,34 jt/bln",
+    "monthly": "Rp 3,34 jt/bln"
+  },
+  {
+    "name": "2019 Honda HR-V E 1.5",
+    "detail1": ["39.444 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 265.000.000 Rp 5,40 jt/bln",
+    "monthly": "Rp 5,40 jt/bln"
+  },
+  {
+    "name": "2019 Mitsubishi XPANDER SPORT 1.5",
+    "detail1": ["50.068 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 200.000.000 Rp 4,08 jt/bln",
+    "monthly": "Rp 4,08 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["40.564 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 154.000.000 Rp 3,14 jt/bln",
+    "monthly": "Rp 3,14 jt/bln"
+  },
+  {
+    "name": "2020 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["9.823 km", "Manual", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Retract Mirror"],
+    "price": "Rp 234.000.000 Rp 4,77 jt/bln",
+    "monthly": "Rp 4,77 jt/bln"
+  },
+  {
+    "name": "2017 Suzuki ERTIGA DREZA 1.4",
+    "detail1": ["28.515 km", "Manual", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Retract Mirror"],
+    "price": "Rp 151.000.000 Rp 3,08 jt/bln",
+    "monthly": "Rp 3,08 jt/bln"
+  },
+  {
+    "name": "2020 Toyota AGYA G TRD 1.2",
+    "detail1": ["21.982 km", "Manual", "Surabaya"],
+    "detail2": ["Plat Genap", "Kamera Mundur"],
+    "price": "Rp 130.000.000 Rp 2,65 jt/bln",
+    "monthly": "Rp 2,65 jt/bln"
+  },
+  {
+    "name": "2021 Toyota RUSH S GR SPORT 1.5",
+    "detail1": ["34.441 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 242.000.000 Rp 4,93 jt/bln",
+    "monthly": "Rp 4,93 jt/bln"
+  },
+  {
+    "name": "2020 Suzuki XL7 ZETA GL 1.5",
+    "detail1": ["37.694 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur"],
+    "price": "Rp 188.000.000 Rp 3,83 jt/bln",
+    "monthly": "Rp 3,83 jt/bln"
+  },
+  {
+    "name": "2021 Suzuki XL7 BETA 1.5",
+    "detail1": ["55.142 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 208.000.000 Rp 4,24 jt/bln",
+    "monthly": "Rp 4,24 jt/bln"
+  },
+  {
+    "name": "2019 Toyota AGYA G 1.2",
+    "detail1": ["68.632 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 128.000.000 Rp 2,61 jt/bln",
+    "monthly": "Rp 2,61 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO SATYA E 1.2",
+    "detail1": ["50.958 km", "Manual", "Jakarta Barat"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 126.000.000 Rp 2,57 jt/bln",
+    "monthly": "Rp 2,57 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO SATYA E 1.2",
+    "detail1": ["55.045 km", "Automatic", "Depok"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 160.000.000 Rp 3,26 jt/bln",
+    "monthly": "Rp 3,26 jt/bln"
+  },
+  {
+    "name": "2014 Nissan X-TRAIL URBAN SELECTION 2.5",
+    "detail1": ["79.564 km", "Automatic", "Depok"],
+    "detail2": ["Plat Ganjil", "Keyless Push Start", "Retract Mirror"],
+    "price": "Rp 173.000.000 Rp 3,52 jt/bln",
+    "monthly": "Rp 3,52 jt/bln"
+  },
+  {
+    "name": "2022 Toyota CALYA G 1.2",
+    "detail1": ["4.994 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Retract Mirror"],
+    "price": "Rp 151.000.000 Rp 3,08 jt/bln",
+    "monthly": "Rp 3,08 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu AYLA X 1.0",
+    "detail1": ["64.067 km", "Manual", "Bandung"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 99.000.000 Rp 2,02 jt/bln",
+    "monthly": "Rp 2,02 jt/bln"
+  },
+  {
+    "name": "2020 Toyota CALYA G 1.2",
+    "detail1": ["46.550 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror"],
+    "price": "Rp 137.000.000 Rp 2,79 jt/bln",
+    "monthly": "Rp 2,79 jt/bln"
+  },
+  {
+    "name": "2020 Toyota CALYA G 1.2",
+    "detail1": ["36.219 km", "Automatic", "Depok"],
+    "detail2": ["Plat Genap", "Retract Mirror"],
+    "price": "Rp 142.000.000 Rp 2,89 jt/bln",
+    "monthly": "Rp 2,89 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO RS 1.2",
+    "detail1": ["48.518 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 178.000.000 Rp 3,63 jt/bln",
+    "monthly": "Rp 3,63 jt/bln"
+  },
+  {
+    "name": "2017 Honda HR-V E 1.5",
+    "detail1": ["73.730 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Paddle Shift"],
+    "price": "Rp 219.000.000 Rp 4,46 jt/bln",
+    "monthly": "Rp 4,46 jt/bln"
+  },
+  {
+    "name": "2014 Nissan JUKE 1.5",
+    "detail1": ["107.104 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Auto Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 146.000.000 Rp 2,97 jt/bln",
+    "monthly": "Rp 2,97 jt/bln"
+  },
+  {
+    "name": "2018 Toyota AGYA G TRD 1.2",
+    "detail1": ["45.947 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 127.000.000 Rp 2,59 jt/bln",
+    "monthly": "Rp 2,59 jt/bln"
+  },
+  {
+    "name": "2018 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["34.555 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 214.000.000 Rp 4,36 jt/bln",
+    "monthly": "Rp 4,36 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["16.469 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah"],
+    "price": "Rp 141.000.000 Rp 2,87 jt/bln",
+    "monthly": "Rp 2,87 jt/bln"
+  },
+  {
+    "name": "2016 Toyota CALYA G 1.2",
+    "detail1": ["65.073 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 108.000.000 Rp 2,20 jt/bln",
+    "monthly": "Rp 2,20 jt/bln"
+  },
+  {
+    "name": "2014 Daihatsu AYLA X 1.0",
+    "detail1": ["100.418 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 84.000.000 Rp 1,71 jt/bln",
+    "monthly": "Rp 1,71 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["80.976 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Genap", "Auto Retract Mirror", "Auto Cruise Control"],
+    "price": "Rp 213.000.000 Rp 4,34 jt/bln",
+    "monthly": "Rp 4,34 jt/bln"
+  },
+  {
+    "name": "2021 Daihatsu ROCKY X 1.2",
+    "detail1": ["40.066 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Auto Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 191.000.000 Rp 3,89 jt/bln",
+    "monthly": "Rp 3,89 jt/bln"
+  },
+  {
+    "name": "2018 Honda MOBILIO S 1.5",
+    "detail1": ["34.932 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 145.000.000 Rp 2,95 jt/bln",
+    "monthly": "Rp 2,95 jt/bln"
+  },
+  {
+    "name": "2017 Toyota AVANZA VELOZ 1.5",
+    "detail1": ["93.580 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur"],
+    "price": "Rp 164.000.000 Rp 3,34 jt/bln",
+    "monthly": "Rp 3,34 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki IGNIS GX 1.2",
+    "detail1": ["54.231 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Retract Mirror"],
+    "price": "Rp 134.000.000 Rp 2,73 jt/bln",
+    "monthly": "Rp 2,73 jt/bln"
+  },
+  {
+    "name": "2018 Toyota AVANZA E 1.3",
+    "detail1": ["128.262 km", "Automatic", "Depok"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 130.000.000 Rp 2,65 jt/bln",
+    "monthly": "Rp 2,65 jt/bln"
+  },
+  {
+    "name": "2017 Daihatsu SIRION M602RS 1.3",
+    "detail1": ["86.506 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 124.000.000 Rp 2,53 jt/bln",
+    "monthly": "Rp 2,53 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu AYLA X 1.0",
+    "detail1": ["72.413 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 91.000.000 Rp 1,85 jt/bln",
+    "monthly": "Rp 1,85 jt/bln"
+  },
+  {
+    "name": "2012 Daihatsu SIRION M602RS 1.3",
+    "detail1": ["87.631 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 88.000.000 Rp 1,79 jt/bln",
+    "monthly": "Rp 1,79 jt/bln"
+  },
+  {
+    "name": "2017 Honda MOBILIO E 1.5",
+    "detail1": ["63.267 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 154.000.000 Rp 3,14 jt/bln",
+    "monthly": "Rp 3,14 jt/bln"
+  },
+  {
+    "name": "2019 Honda HR-V E 1.5",
+    "detail1": ["58.950 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Electric Parking Brake", "Retract Mirror"],
+    "price": "Rp 264.000.000 Rp 5,38 jt/bln",
+    "monthly": "Rp 5,38 jt/bln"
+  },
+  {
+    "name": "2019 Toyota KIJANG INNOVA REBORN G 2.4",
+    "detail1": ["57.910 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 340.000.000 Rp 6,93 jt/bln",
+    "monthly": "Rp 6,93 jt/bln"
+  },
+  {
+    "name": "2017 Toyota CALYA G 1.2",
+    "detail1": ["92.204 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 120.000.000 Rp 2,44 jt/bln",
+    "monthly": "Rp 2,44 jt/bln"
+  },
+  {
+    "name": "2019 Honda BRIO SATYA E 1.2",
+    "detail1": ["46.521 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 156.000.000 Rp 3,18 jt/bln",
+    "monthly": "Rp 3,18 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu XENIA R STD 1.3",
+    "detail1": ["33.937 km", "Manual", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 168.000.000 Rp 3,42 jt/bln",
+    "monthly": "Rp 3,42 jt/bln"
+  },
+  {
+    "name": "2018 Honda BR-V E 1.5",
+    "detail1": ["66.961 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 184.000.000 Rp 3,75 jt/bln",
+    "monthly": "Rp 3,75 jt/bln"
+  },
+  {
+    "name": "2019 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["28.437 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Auto Cruise Control"],
+    "price": "Rp 222.000.000 Rp 4,52 jt/bln",
+    "monthly": "Rp 4,52 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["54.260 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 213.000.000 Rp 4,34 jt/bln",
+    "monthly": "Rp 4,34 jt/bln"
+  },
+  {
+    "name": "2014 Toyota FORTUNER G 2.5",
+    "detail1": ["95.458 km", "Automatic", "Depok"],
+    "detail2": ["Plat Genap", "Retract Mirror"],
+    "price": "Rp 274.000.000 Rp 5,58 jt/bln",
+    "monthly": "Rp 5,58 jt/bln"
+  },
+  {
+    "name": "2016 Nissan MARCH L 1.2",
+    "detail1": ["89.734 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 112.000.000 Rp 2,28 jt/bln",
+    "monthly": "Rp 2,28 jt/bln"
+  },
+  {
+    "name": "2018 Suzuki SX4 S-CROSS 1.5",
+    "detail1": ["93.404 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Retract Mirror"],
+    "price": "Rp 184.000.000 Rp 3,75 jt/bln",
+    "monthly": "Rp 3,75 jt/bln"
+  },
+  {
+    "name": "2021 Toyota YARIS S TRD 1.5",
+    "detail1": ["14.736 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 244.000.000 Rp 4,97 jt/bln",
+    "monthly": "Rp 4,97 jt/bln"
+  },
+  {
+    "name": "2017 Toyota SIENTA Q 1.5",
+    "detail1": ["58.365 km", "Automatic", "Jakarta Pusat"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Power Sliding Door"],
+    "price": "Rp 187.000.000 Rp 3,81 jt/bln",
+    "monthly": "Rp 3,81 jt/bln"
+  },
+  {
+    "name": "2019 Toyota CALYA G 1.2",
+    "detail1": ["53.807 km", "Manual", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 121.000.000 Rp 2,47 jt/bln",
+    "monthly": "Rp 2,47 jt/bln"
+  },
+  {
+    "name": "2015 Suzuki KARIMUN GL 1.0",
+    "detail1": ["67.265 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 86.000.000 Rp 1,75 jt/bln",
+    "monthly": "Rp 1,75 jt/bln"
+  },
+  {
+    "name": "2021 Daihatsu ROCKY R 1.0",
+    "detail1": ["37.472 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur", "Auto Retract Mirror"],
+    "price": "Rp 220.000.000 Rp 4,48 jt/bln",
+    "monthly": "Rp 4,48 jt/bln"
+  },
+  {
+    "name": "2018 Datsun CROSS 1.2",
+    "detail1": ["48.865 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Vehicle Stability Control"],
+    "price": "Rp 112.000.000 Rp 2,28 jt/bln",
+    "monthly": "Rp 2,28 jt/bln"
+  },
+  {
+    "name": "2016 Honda BRIO SATYA S 1.2",
+    "detail1": ["28.625 km", "Manual", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 112.000.000 Rp 2,28 jt/bln",
+    "monthly": "Rp 2,28 jt/bln"
+  },
+  {
+    "name": "2013 Nissan GRAND LIVINA SV 1.5",
+    "detail1": ["109.026 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 95.000.000 Rp 1,94 jt/bln",
+    "monthly": "Rp 1,94 jt/bln"
+  },
+  {
+    "name": "2020 Honda BR-V PRESTIGE 1.5",
+    "detail1": ["43.749 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 214.000.000 Rp 4,36 jt/bln",
+    "monthly": "Rp 4,36 jt/bln"
+  },
+  {
+    "name": "2015 Mazda 2 GT SKYACTIV 1.5",
+    "detail1": ["66.182 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Map Navigator"],
+    "price": "Rp 181.000.000 Rp 3,69 jt/bln",
+    "monthly": "Rp 3,69 jt/bln"
+  },
+  {
+    "name": "2018 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["63.203 km", "Automatic", "Jakarta Pusat"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 210.000.000 Rp 4,28 jt/bln",
+    "monthly": "Rp 4,28 jt/bln"
+  },
+  {
+    "name": "2019 Wuling ALMAZ LT LUX 1.5",
+    "detail1": ["49.088 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Electric Parking Brake", "360 Camera View"],
+    "price": "Rp 204.000.000 Rp 4,16 jt/bln",
+    "monthly": "Rp 4,16 jt/bln"
+  },
+  {
+    "name": "2015 Nissan X-TRAIL 2.5",
+    "detail1": ["67.756 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Power Back Door"],
+    "price": "Rp 209.000.000 Rp 4,26 jt/bln",
+    "monthly": "Rp 4,26 jt/bln"
+  },
+  {
+    "name": "2022 Mitsubishi COLT L300 PICK UP 2.5",
+    "detail1": ["1.065 km", "Manual", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah"],
+    "price": "Rp 177.000.000 Rp 3,61 jt/bln",
+    "monthly": "Rp 3,61 jt/bln"
+  },
+  {
+    "name": "2016 Suzuki SX4 S-CROSS 1.5",
+    "detail1": ["76.606 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 160.000.000 Rp 3,26 jt/bln",
+    "monthly": "Rp 3,26 jt/bln"
+  },
+  {
+    "name": "2017 Honda BRIO SATYA E 1.2",
+    "detail1": ["64.556 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Sports Mode"],
+    "price": "Rp 132.000.000 Rp 2,69 jt/bln",
+    "monthly": "Rp 2,69 jt/bln"
+  },
+  {
+    "name": "2016 Mitsubishi PAJERO SPORT DAKAR 4X2 2.4",
+    "detail1": ["28.906 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Sun Roof", "Electric Parking Brake"],
+    "price": "Rp 404.000.000 Rp 8,23 jt/bln",
+    "monthly": "Rp 8,23 jt/bln"
+  },
+  {
+    "name": "2010 Honda FREED E 1.5",
+    "detail1": ["170.021 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Power Sliding Door", "Retract Mirror"],
+    "price": "Rp 129.000.000 Rp 2,63 jt/bln",
+    "monthly": "Rp 2,63 jt/bln"
+  },
+  {
+    "name": "2022 Suzuki SX4 S-CROSS 1.5",
+    "detail1": ["10.206 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Kamera Mundur"],
+    "price": "Rp 241.000.000 Rp 4,91 jt/bln",
+    "monthly": "Rp 4,91 jt/bln"
+  },
+  {
+    "name": "2018 Toyota AVANZA G 1.3",
+    "detail1": ["24.873 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 160.000.000 Rp 3,26 jt/bln",
+    "monthly": "Rp 3,26 jt/bln"
+  },
+  {
+    "name": "2019 Mazda CX-5 ELITE 2.5",
+    "detail1": ["29.440 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap", "Sun Roof", "Retract Mirror"],
+    "price": "Rp 433.000.000 Rp 8,82 jt/bln",
+    "monthly": "Rp 8,82 jt/bln"
+  },
+  {
+    "name": "2017 Toyota SIENTA G 1.5",
+    "detail1": ["70.529 km", "Automatic", "Depok"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Power Sliding Door"],
+    "price": "Rp 163.000.000 Rp 3,32 jt/bln",
+    "monthly": "Rp 3,32 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu SIGRA M 1.0",
+    "detail1": ["18.826 km", "Manual", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah"],
+    "price": "Rp 109.000.000 Rp 2,22 jt/bln",
+    "monthly": "Rp 2,22 jt/bln"
+  },
+  {
+    "name": "2022 Daihatsu SIGRA R 1.2",
+    "detail1": ["8.817 km", "Manual", "Jakarta Pusat"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Kamera Mundur"],
+    "price": "Rp 136.000.000 Rp 2,77 jt/bln",
+    "monthly": "Rp 2,77 jt/bln"
+  },
+  {
+    "name": "2016 Honda BRIO SATYA E 1.2",
+    "detail1": ["97.829 km", "Manual", "Jakarta Pusat"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 118.000.000 Rp 2,40 jt/bln",
+    "monthly": "Rp 2,40 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO SATYA E 1.2",
+    "detail1": ["61.043 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Sports Mode"],
+    "price": "Rp 142.000.000 Rp 2,89 jt/bln",
+    "monthly": "Rp 2,89 jt/bln"
+  },
+  {
+    "name": "2019 Mazda 2 R 1.5",
+    "detail1": ["37.929 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Auto Cruise Control"],
+    "price": "Rp 220.000.000 Rp 4,48 jt/bln",
+    "monthly": "Rp 4,48 jt/bln"
+  },
+  {
+    "name": "2021 Toyota AGYA G TRD SPORTIVO 1.2",
+    "detail1": ["39.599 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 147.000.000 Rp 3,00 jt/bln",
+    "monthly": "Rp 3,00 jt/bln"
+  },
+  {
+    "name": "2015 Nissan GRAND LIVINA HIGHWAY STAR 1.5",
+    "detail1": ["60.480 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur"],
+    "price": "Rp 131.000.000 Rp 2,67 jt/bln",
+    "monthly": "Rp 2,67 jt/bln"
+  },
+  {
+    "name": "2016 Nissan X-TRAIL 2.0",
+    "detail1": ["62.427 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 199.000.000 Rp 4,05 jt/bln",
+    "monthly": "Rp 4,05 jt/bln"
+  },
+  {
+    "name": "2018 Honda CR-V TURBO PRESTIGE 1.5",
+    "detail1": ["84.641 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Ganjil", "Power Back Door", "Panoramic Sun Roof"],
+    "price": "Rp 382.000.000 Rp 7,78 jt/bln",
+    "monthly": "Rp 7,78 jt/bln"
+  },
+  {
+    "name": "2014 Toyota AVANZA G 1.3",
+    "detail1": ["104.117 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 122.000.000 Rp 2,49 jt/bln",
+    "monthly": "Rp 2,49 jt/bln"
+  },
+  {
+    "name": "2019 BMW 3 20I (CKD) 2.0",
+    "detail1": ["47.554 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Genap", "Sports Mode", "Map Navigator"],
+    "price": "Rp 446.000.000 Rp 9,09 jt/bln",
+    "monthly": "Rp 9,09 jt/bln"
+  },
+  {
+    "name": "2015 Nissan MARCH 1.5",
+    "detail1": ["37.414 km", "Manual", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 113.000.000 Rp 2,30 jt/bln",
+    "monthly": "Rp 2,30 jt/bln"
+  },
+  {
+    "name": "2021 Suzuki CARRY PICK UP 1.5",
+    "detail1": ["12.191 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Kamera Mundur"],
+    "price": "Rp 118.000.000 Rp 2,40 jt/bln",
+    "monthly": "Rp 2,40 jt/bln"
+  },
+  {
+    "name": "2015 Toyota AGYA G 1.0",
+    "detail1": ["57.783 km", "Automatic", "Bandung"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 100.000.000 Rp 2,04 jt/bln",
+    "monthly": "Rp 2,04 jt/bln"
+  },
+  {
+    "name": "2019 Suzuki IGNIS GX 1.2",
+    "detail1": ["20.613 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Jarak Tempuh Rendah", "Kamera Mundur"],
+    "price": "Rp 145.000.000 Rp 2,95 jt/bln",
+    "monthly": "Rp 2,95 jt/bln"
+  },
+  {
+    "name": "2019 Daihatsu SIGRA R STD 1.2",
+    "detail1": ["40.938 km", "Manual", "Jakarta Barat"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 122.000.000 Rp 2,49 jt/bln",
+    "monthly": "Rp 2,49 jt/bln"
+  },
+  {
+    "name": "2019 Toyota KIJANG INNOVA REBORN G 2.0",
+    "detail1": ["44.322 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur", "Sports Mode"],
+    "price": "Rp 278.000.000 Rp 5,66 jt/bln",
+    "monthly": "Rp 5,66 jt/bln"
+  },
+  {
+    "name": "2016 Nissan MARCH 1.2",
+    "detail1": ["72.140 km", "Manual", "Jakarta Barat"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 101.000.000 Rp 2,06 jt/bln",
+    "monthly": "Rp 2,06 jt/bln"
+  },
+  {
+    "name": "2012 Honda BRIO E 1.3",
+    "detail1": ["88.614 km", "Manual", "Jakarta Pusat"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 102.000.000 Rp 2,08 jt/bln",
+    "monthly": "Rp 2,08 jt/bln"
+  },
+  {
+    "name": "2018 Daihatsu SIGRA R STD 1.2",
+    "detail1": ["12.934 km", "Manual", "Bekasi"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 117.000.000 Rp 2,38 jt/bln",
+    "monthly": "Rp 2,38 jt/bln"
+  },
+  {
+    "name": "2019 Mitsubishi XPANDER ULTIMATE 1.5",
+    "detail1": ["51.777 km", "Automatic", "Jakarta Barat"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Auto Cruise Control"],
+    "price": "Rp 222.000.000 Rp 4,52 jt/bln",
+    "monthly": "Rp 4,52 jt/bln"
+  },
+  {
+    "name": "2011 Toyota AVANZA G 1.3",
+    "detail1": ["66.609 km", "Manual", "Tangerang Selatan"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 100.000.000 Rp 2,04 jt/bln",
+    "monthly": "Rp 2,04 jt/bln"
+  },
+  {
+    "name": "2016 Honda BRIO RS 1.2",
+    "detail1": ["40.559 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 142.000.000 Rp 2,89 jt/bln",
+    "monthly": "Rp 2,89 jt/bln"
+  },
+  {
+    "name": "2018 Honda BRIO RS 1.2",
+    "detail1": ["54.763 km", "Automatic", "Bekasi"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Sports Mode"],
+    "price": "Rp 155.000.000 Rp 3,16 jt/bln",
+    "monthly": "Rp 3,16 jt/bln"
+  },
+  {
+    "name": "2017 Honda MOBILIO E 1.5",
+    "detail1": ["93.915 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Genap", "Kamera Mundur", "Sports Mode"],
+    "price": "Rp 159.000.000 Rp 3,24 jt/bln",
+    "monthly": "Rp 3,24 jt/bln"
+  },
+  {
+    "name": "2019 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["39.522 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 224.000.000 Rp 4,56 jt/bln",
+    "monthly": "Rp 4,56 jt/bln"
+  },
+  {
+    "name": "2017 Toyota SIENTA Q 1.5",
+    "detail1": ["66.910 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Power Sliding Door"],
+    "price": "Rp 191.000.000 Rp 3,89 jt/bln",
+    "monthly": "Rp 3,89 jt/bln"
+  },
+  {
+    "name": "2017 Daihatsu SIGRA R DLX 1.2",
+    "detail1": ["58.351 km", "Automatic", "Depok"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 121.000.000 Rp 2,47 jt/bln",
+    "monthly": "Rp 2,47 jt/bln"
+  },
+  {
+    "name": "2020 Suzuki XL7 ZETA GL 1.5",
+    "detail1": ["35.449 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Kamera Mundur"],
+    "price": "Rp 192.000.000 Rp 3,91 jt/bln",
+    "monthly": "Rp 3,91 jt/bln"
+  },
+  {
+    "name": "2020 Honda BRIO SATYA E 1.2",
+    "detail1": ["19.331 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Sports Mode"],
+    "price": "Rp 165.000.000 Rp 3,36 jt/bln",
+    "monthly": "Rp 3,36 jt/bln"
+  },
+  {
+    "name": "2018 Toyota RUSH S TRD SPORTIVO 1.5",
+    "detail1": ["81.269 km", "Automatic", "Jakarta Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 210.000.000 Rp 4,28 jt/bln",
+    "monthly": "Rp 4,28 jt/bln"
+  },
+  {
+    "name": "2022 Suzuki CARRY PICK UP 1.5",
+    "detail1": ["14.081 km", "Manual", "Depok"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah"],
+    "price": "Rp 110.000.000 Rp 2,24 jt/bln",
+    "monthly": "Rp 2,24 jt/bln"
+  },
+  {
+    "name": "2017 Suzuki IGNIS GX 1.2",
+    "detail1": ["81.783 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 131.000.000 Rp 2,67 jt/bln",
+    "monthly": "Rp 2,67 jt/bln"
+  },
+  {
+    "name": "2016 Mazda 2 GT 1.5",
+    "detail1": ["53.270 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 184.000.000 Rp 3,75 jt/bln",
+    "monthly": "Rp 3,75 jt/bln"
+  },
+  {
+    "name": "2020 Suzuki XL7 ALPHA 1.5",
+    "detail1": ["52.960 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Genap", "Retract Mirror", "Keyless Push Start"],
+    "price": "Rp 218.000.000 Rp 4,44 jt/bln",
+    "monthly": "Rp 4,44 jt/bln"
+  },
+  {
+    "name": "2019 Nissan LIVINA VL 1.5",
+    "detail1": ["39.145 km", "Automatic", "Jakarta Timur"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Vehicle Stability Control"],
+    "price": "Rp 202.000.000 Rp 4,12 jt/bln",
+    "monthly": "Rp 4,12 jt/bln"
+  },
+  {
+    "name": "2013 Honda FREED S 1.5",
+    "detail1": ["91.567 km", "Automatic", "Tangerang Selatan"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 158.000.000 Rp 3,22 jt/bln",
+    "monthly": "Rp 3,22 jt/bln"
+  },
+  {
+    "name": "2018 Toyota AGYA G 1.2",
+    "detail1": ["60.588 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 122.000.000 Rp 2,49 jt/bln",
+    "monthly": "Rp 2,49 jt/bln"
+  },
+  {
+    "name": "2020 Toyota AVANZA VELOZ 1.5",
+    "detail1": ["50.137 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Retract Mirror", "Kamera Mundur"],
+    "price": "Rp 204.000.000 Rp 4,16 jt/bln",
+    "monthly": "Rp 4,16 jt/bln"
+  },
+  {
+    "name": "2021 Toyota RAIZE GR SPORT TSS 1.0",
+    "detail1": ["32.288 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Ganjil", "Auto Retract Mirror", "Paddle Shift"],
+    "price": "Rp 234.000.000 Rp 4,77 jt/bln",
+    "monthly": "Rp 4,77 jt/bln"
+  },
+  {
+    "name": "2019 Toyota AGYA G TRD 1.2",
+    "detail1": ["26.474 km", "Automatic", "Jakarta Utara"],
+    "detail2": ["Plat Ganjil"],
+    "price": "Rp 136.000.000 Rp 2,77 jt/bln",
+    "monthly": "Rp 2,77 jt/bln"
+  },
+  {
+    "name": "2022 Hyundai STARGAZER PRIME 1.5",
+    "detail1": ["2.651 km", "Automatic", "Bogor"],
+    "detail2": ["Plat Genap", "Jarak Tempuh Rendah", "Retract Mirror"],
+    "price": "Rp 246.000.000 Rp 5,01 jt/bln",
+    "monthly": "Rp 5,01 jt/bln"
+  },
+  {
+    "name": "2017 Toyota CALYA G 1.2",
+    "detail1": ["34.349 km", "Manual", "Jakarta Utara"],
+    "detail2": ["Plat Genap"],
+    "price": "Rp 116.000.000 Rp 2,36 jt/bln",
+    "monthly": "Rp 2,36 jt/bln"
+  },
+  {
+    "name": "2017 Daihatsu XENIA R SPORTY 1.3",
+    "detail1": ["90.740 km", "Manual", "Bogor"],
+    "detail2": ["Plat Genap", "Kamera Mundur"],
+    "price": "Rp 149.000.000 Rp 3,04 jt/bln",
+    "monthly": "Rp 3,04 jt/bln"
+  }
+]

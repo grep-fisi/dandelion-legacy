@@ -137,7 +137,7 @@ export default function GraphView({ rawData }) {
         width={width}
         height={height}
         graphData={data}
-        autoPauseRedraw={false}
+        autoPauseRedraw={true}
         linkCurvature={'curvature'}
         backgroundColor={'#ffffff0'}
         nodeRelSize={3}
@@ -156,9 +156,12 @@ export default function GraphView({ rawData }) {
         }}
         linkColor={(link) => (highlightLinks.has(link) ? colors.main[0] : colors.dark[5])}
         dagMode={'radialin'}
+        dagLevelDistance={200}
         onNodeHover={handleNodeHover}
         onNodeDrag={handleNodeDrag}
         onNodeDragEnd={handleNodeDragEnd}
+        // enablePointerInteraction={false}
+        linkVisibility={false}
       />
     </>
   )
