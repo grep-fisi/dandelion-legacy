@@ -18,8 +18,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             '#8a8a8a', // default nodes
             '#373A40',
             '#353535', // idle nodes & links
+            '#252525',
             '#252525', // background
-            '#1A1B1E',
             '#141517',
             '#101113'
           ],

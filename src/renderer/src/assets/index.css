@@ -13,7 +13,7 @@ body {
     'Open Sans',
     sans-serif;
   color: #ffffff;
-  /*background-color: #272727;*/
+  background-color: var(--mantine-colors-dark-6);
 }
 
 * {
