@@ -1,0 +1,96 @@
+[
+  {
+    "atributos": {
+      "id": 22200083,
+      "nombre": "jesus",
+      "apellido": "diaz",
+      "apodos": ["feelware", "post-sound"],
+      "edad": 19,
+      "rasgos": {
+        "talla": "1.70cm",
+        "peso": "60kg",
+        "cabello": {
+          "color": "negro",
+          "estilo": "ondulado"
+        }
+      },
+      "idiomas": [
+        {
+          "nombre": "español",
+          "nivel": "avanzado",
+          "nativo": true
+        },
+        {
+          "nombre": "ingles",
+          "nivel": "intermedio"
+        }
+      ],
+      "profesion": null,
+      "educacion": [
+        {
+          "institucion": {
+            "nombre": "trilce",
+            "nivel": "secundaria",
+            "privada": false
+          },
+          "completado": true
+        },
+        {
+          "institucion": {
+            "nombre": "unmsm",
+            "nivel": "universidad",
+            "privada": false
+          },
+          "semestre": 4
+        }
+      ],
+      "proyectos": [
+        {
+          "nombre": "grap",
+          "colaboradores": [
+            {
+              "id": 22200232,
+              "nombre": "rodrigo",
+              "rol": "backend"
+            },
+            {
+              "id": 22200084,
+              "nombre": "paolo",
+              "rol": "devops"
+            }
+          ],
+          "lenguajes": [
+            {
+              "nombre": "javascript",
+              "proposito": ["frontend", "backend"],
+              "librerias": [
+                {
+                  "nombre": "react",
+                  "proposito": ["frontend", "ui"],
+                  "librerias": [
+                    {
+                      "nombre": "framer-motion",
+                      "proposito": "animacion"
+                    },
+                    {
+                      "nombre": "react-spring",
+                      "proposito": "animacion"
+                    }
+                  ] 
+                },
+                {
+                  "nombre": "d3",
+                  "proposito": ["data", "animacion"]
+                }
+              ]
+            },
+            {
+              "nombre": "go",
+              "proposito": ["backend", "data"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

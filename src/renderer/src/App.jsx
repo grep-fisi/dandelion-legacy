@@ -6,16 +6,16 @@ import files from './data/files.json'
 
 export default function App() {
   const [opened, { toggle, close }] = useDisclosure(false)
-  const [placeholder, setPlaceholder] = useState('')
+  const [placeholder, setPlaceholder] = useState('hola')
   const [input, setInput] = useState('')
   const [data, setData] = useState(files)
   const [invalid, setInvalid] = useState(false)
 
-  useEffect(() => {
-    const randomFile = files[Math.floor(Math.random() * files.length)]
-    const randomTags = randomFile.tags.slice(0, 2).join(' && ')
-    setPlaceholder(randomTags)
-  }, [])
+  // useEffect(() => {
+  //   const randomFile = files[Math.floor(Math.random() * files.length)]
+  //   const randomTags = randomFile.tags.slice(0, 2).join(' && ')
+  //   setPlaceholder(randomTags)
+  // }, [])
 
   useEffect(() => {
     function handleKeyDown(event) {

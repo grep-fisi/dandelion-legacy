@@ -29,7 +29,7 @@ export default function GraphView({ rawData }) {
   /* Highlight node and its links on node hover */
 
   const data = useMemo(() => {
-    const gData = generateGraph(rawData)
+    const gData = generateGraph(rawData, 'name')
 
     gData.links.forEach((link) => {
       const a = gData.nodes[link.source]
