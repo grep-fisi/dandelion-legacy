@@ -11,7 +11,7 @@ type Query struct {
 }
 
 type DB struct {
-    ListedData []Register
+    ListedData []Register `json:"files"`
 }
 
 

@@ -40,7 +40,7 @@ func UploadData(w http.ResponseWriter, r *http.Request) {
     }
 
     newData := &db.DB{}
-    decodeErr := json.NewDecoder(r.Body).Decode(&newData.ListedData)
+    decodeErr := json.NewDecoder(r.Body).Decode(&newData)
     if decodeErr != nil {
         w.WriteHeader(http.StatusInternalServerError)
     } else {
