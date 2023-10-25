@@ -2,7 +2,7 @@ import GraphView from './components/GraphView/GraphView'
 import { useEffect, useState } from 'react'
 import { useDisclosure } from '@mantine/hooks'
 import { Dialog, TextInput } from '@mantine/core'
-import files from './data/makeup_data.json'
+import files from './data/movies.json'
 import genObjArr from './utilities/genObjArr'
 
 export default function App() {
@@ -12,11 +12,27 @@ export default function App() {
   const [rawData, setRawData] = useState(genObjArr(files, 'name'))
   const [invalid, setInvalid] = useState(false)
 
+  const ogData = genObjArr(files, 'name')
+
   // useEffect(() => {
   //   const randomFile = files[Math.floor(Math.random() * files.length)]
   //   const randomTags = randomFile.tags.slice(0, 2).join(' && ')
   //   setPlaceholder(randomTags)
   // }, [])
+
+  useEffect(() => {
+    const bodyStr = JSON.stringify({
+      files: ogData
+    })
+
+    fetch('http://localhost:9090/upload/', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: bodyStr
+    })
+  }, [])
 
   useEffect(() => {
     function handleKeyDown(event) {
@@ -54,23 +70,23 @@ export default function App() {
 
   const handleEnter = () => {
     if (input === '') {
-      setRawData(genObjArr(files, 'name'))
+      setRawData(ogData)
       return
     }
 
     const bodyStr = JSON.stringify({
       sets: getSets(input),
-      expr: input,
-      files: genObjArr(files, 'name')
+      expr: input
     })
 
-    fetch('http://localhost:9090/api', {
+    fetch('http://localhost:9090/api/', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
       },
       body: bodyStr
     }).then((e) => {
+      console.log(bodyStr)
       e.json().then((res) => {
         if (res === null) {
           setInvalid(true)

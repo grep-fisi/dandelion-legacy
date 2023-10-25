@@ -18,11 +18,18 @@ export default function GraphView({ rawData }) {
     function handleMouseUp() {
       mouseDown.current = false
     }
+    function handleEscapeKey(event) {
+      if (event.key === 'Escape') {
+        handleBackgroundClick()
+      }
+    }
     window.addEventListener('mousedown', handleMouseDown, true)
     window.addEventListener('mouseup', handleMouseUp, true)
+    window.addEventListener('keydown', handleEscapeKey, true)
     return () => {
       window.removeEventListener('mousedown', handleMouseDown, true)
       window.removeEventListener('mouseup', handleMouseUp, true)
+      window.removeEventListener('keydown', handleEscapeKey, true)
     }
   }, [])
 
@@ -50,6 +57,8 @@ export default function GraphView({ rawData }) {
 
   const [highlightNodes, setHighlightNodes] = useState(new Set())
   const [highlightLinks, setHighlightLinks] = useState(new Set())
+  const clickedNodes = useState(new Set())[0]
+  const clickedLinks = useState(new Set())[0]
   const setHoverNode = useState(null)[1]
 
   const updateHighlight = () => {
@@ -65,8 +74,12 @@ export default function GraphView({ rawData }) {
 
     if (node) {
       highlightNodes.add(node)
-      node.neighbors.forEach((neighbor) => highlightNodes.add(neighbor))
-      node.links.forEach((link) => highlightLinks.add(link))
+      if (node.neighbors) {
+        node.neighbors.forEach((neighbor) => highlightNodes.add(neighbor))
+      }
+      if (node.links) {
+        node.links.forEach((link) => highlightLinks.add(link))
+      }
     }
 
     setHoverNode(node || null)
@@ -76,9 +89,42 @@ export default function GraphView({ rawData }) {
   const handleNodeDrag = (node) => {
     if (node) {
       highlightNodes.add(node)
-      node.neighbors.forEach((neighbor) => highlightNodes.add(neighbor))
-      node.links.forEach((link) => highlightLinks.add(link))
+      if (node.neighbors) {
+        node.neighbors.forEach((neighbor) => highlightNodes.add(neighbor))
+      }
+      if (node.links) {
+        node.links.forEach((link) => highlightLinks.add(link))
+      }
     }
+  }
+
+  const handleNodeClick = (node) => {
+    if (node) {
+      clickedNodes.add(node)
+      if (node.neighbors) {
+        node.neighbors.forEach((neighbor) => clickedNodes.add(neighbor))
+      }
+      if (node.links) {
+        node.links.forEach((link) => clickedLinks.add(link))
+      }
+    }
+  }
+
+  const handleNodeRightClick = (node) => {
+    if (node) {
+      clickedNodes.delete(node)
+      if (node.neighbors) {
+        node.neighbors.forEach((neighbor) => clickedNodes.delete(neighbor))
+      }
+      if (node.links) {
+        node.links.forEach((link) => clickedLinks.delete(link))
+      }
+    }
+  }
+
+  const handleBackgroundClick = () => {
+    clickedNodes.clear()
+    clickedLinks.clear()
   }
 
   const handleNodeDragEnd = () => {
@@ -148,20 +194,25 @@ export default function GraphView({ rawData }) {
             } else if (highlightNodes.neighbors?.has(node)) {
               return colors.main[0]
             } else {
-              return colors.dark[5] // #353535
+              return colors.dark[3] // #353535
             }
           } else {
             return colors.dark[3] // #8a8a8a
           }
         }}
-        linkColor={(link) => (highlightLinks.has(link) ? colors.main[0] : colors.dark[5])}
+        linkColor={(link) => (highlightLinks.has(link) ? colors.main[0] : colors.dark[3])}
         dagMode={'radialin'}
         dagLevelDistance={200}
         onNodeHover={handleNodeHover}
         onNodeDrag={handleNodeDrag}
         onNodeDragEnd={handleNodeDragEnd}
+        onNodeClick={handleNodeClick}
+        onNodeRightClick={handleNodeRightClick}
+        onBackgroundClick={handleBackgroundClick}
         // enablePointerInteraction={false}
-        linkVisibility={false}
+        linkVisibility={(link) =>
+          highlightLinks.has(link) || clickedLinks.has(link) ? true : false
+        }
       />
     </>
   )
