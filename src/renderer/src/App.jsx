@@ -6,7 +6,6 @@ import files from './data/movies.json'
 import genObjArr from './utilities/genObjArr'
 
 const symbols = ['!', '~', '/\\', '&', '&&', '<=>', '<', '=>', '>', '||']
-const symbols2 = ['&&', '||']
 
 export default function App() {
   const [opened, { toggle, close }] = useDisclosure(false)
@@ -36,7 +35,6 @@ export default function App() {
       if (event.ctrlKey && event.key === 'f') {
         toggle()
       } else if (event.key === 'Escape' && opened) {
-        setTimeout(100)
         close()
       } else if (event.key === 'Enter' && opened) {
         handleEnter()
@@ -54,14 +52,8 @@ export default function App() {
   useEffect(() => {
     if (opened) {
       const randomFile = rawData[Math.floor(Math.random() * rawData.length)]
-      const randomTagIndex1 = Math.floor(Math.random() * (randomFile.tags.length - 2)) + 2
-      let randomTagIndex2 = Math.floor(Math.random() * (randomFile.tags.length - 2)) + 2
-      const randomOp = Math.floor(Math.random() * symbols2.length)
-      while (randomTagIndex1 === randomTagIndex2) {
-        randomTagIndex2 = Math.floor(Math.random() * (randomFile.tags.length - 2)) + 2
-      }
-      const randomTags = `${randomFile.tags[randomTagIndex1]} ${symbols2[randomOp]} ${randomFile.tags[randomTagIndex2]}`
-      setPlaceholder(randomTags)
+      const randomTagIndex = Math.floor(Math.random() * (randomFile.tags.length - 2)) + 2
+      setPlaceholder(randomFile.tags[randomTagIndex])
     }
   }, [rawData, opened])
 
