@@ -28,6 +28,29 @@ func GeneralHandle(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
+func UploadData(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Access-Control-Allow-Methods", "POST")
+	w.Header().Set("Access-Control-Allow-Origin", "*")
+	w.Header().Set("Access-Control-Allow-Headers", "*")
+
+    if r.Method == http.MethodOptions {
+        w.WriteHeader(http.StatusOK)
+    } else if r.Method != http.MethodPost {
+        w.WriteHeader(http.StatusInternalServerError)
+    }
+
+    newData := &db.DB{}
+    decodeErr := json.NewDecoder(r.Body).Decode(&newData.ListedData)
+    if decodeErr != nil {
+        w.WriteHeader(http.StatusInternalServerError)
+    } else {
+        w.WriteHeader(200)
+    }
+
+    database.ListedData = newData.ListedData
+    log.Println(database)
+}
+
 func QueryPost(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json; charset=utf-8")
 	EnableEndpoint(&w)
@@ -43,6 +66,8 @@ func QueryPost(w http.ResponseWriter, r *http.Request) {
 	if decodeErr != nil {
 		log.Println(decodeErr)
 	}
+
+    log.Println(database)
 
 	var startErr error
 

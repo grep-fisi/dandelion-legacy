@@ -77,13 +77,11 @@ var operators = [...]rune{
 }
 
 //---
-
 type token struct {
     which   kind
     name    rune
     state   *state //used only at delimiters
 }
-
 //---
 
 func removeWhitespaces(in string) string {
