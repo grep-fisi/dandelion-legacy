@@ -110,7 +110,7 @@ export default function GraphView({ rawData }) {
     }
   }
 
-  const handleNodeRightClick = (node) => {
+  const handleNodeDeclick = (node) => {
     if (node) {
       clickedNodes.delete(node)
       if (node.neighbors) {
@@ -206,9 +206,15 @@ export default function GraphView({ rawData }) {
         onNodeHover={handleNodeHover}
         onNodeDrag={handleNodeDrag}
         onNodeDragEnd={handleNodeDragEnd}
-        onNodeClick={handleNodeClick}
-        onNodeRightClick={handleNodeRightClick}
+        onNodeClick={(node) => {
+          if (clickedNodes.has(node)) {
+            handleNodeDeclick(node)
+          } else {
+            handleNodeClick(node)
+          }
+        }}
         onBackgroundClick={handleBackgroundClick}
+        onLinkClick={handleBackgroundClick}
         // enablePointerInteraction={false}
         linkVisibility={(link) =>
           highlightLinks.has(link) || clickedLinks.has(link) ? true : false
