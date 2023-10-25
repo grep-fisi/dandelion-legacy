@@ -8,8 +8,6 @@ import (
 	"strings"
 )
 
-var database *db.DB
-
 func EnableEndpoint(w *http.ResponseWriter) {
 	(*w).Header().Set("Access-Control-Allow-Methods", "ANY")
 	(*w).Header().Set("Access-Control-Allow-Origin", "*")
@@ -47,8 +45,8 @@ func UploadData(w http.ResponseWriter, r *http.Request) {
         w.WriteHeader(200)
     }
 
-    database.ListedData = newData.ListedData
-    log.Println(database)
+    db.Database.ListedData = newData.ListedData
+    log.Println(db.Database)
 }
 
 func QueryPost(w http.ResponseWriter, r *http.Request) {
@@ -67,19 +65,19 @@ func QueryPost(w http.ResponseWriter, r *http.Request) {
 		log.Println(decodeErr)
 	}
 
-    log.Println(database)
+    log.Println(db.Database)
 
 	var startErr error
 
-	if database == nil {
-		database, startErr = db.StartDb()
+	if db.Database == nil {
+		db.StartDb()
 		if startErr != nil {
 			log.Println("db start error: " + startErr.Error())
 			w.WriteHeader(http.StatusInternalServerError)
 		}
 	}
 
-	queryResult, queryErr := database.Query(data)
+	queryResult, queryErr := db.Database.Query(data)
 	if queryErr != nil {
 		log.Println("query result error: " + queryErr.Error())
 		w.WriteHeader(http.StatusInternalServerError)

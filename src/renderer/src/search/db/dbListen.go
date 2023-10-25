@@ -7,7 +7,7 @@ import (
 	"io"
 	"log"
 	"os"
-	"path/filepath"
+    "path/filepath"
 )
 
 var data []Register
@@ -71,11 +71,13 @@ func registerWalkFunc(path string, info os.DirEntry, err error) error {
 //    return newBase, nil
 //}
 
-func StartDb() (*DB, error) {
+var Database *DB
+
+func StartDb() (error) {
     dataList := os.Getenv("setbase_data")
     dataFile, openErr := os.Open(dataList)
     if openErr != nil {
-        return nil, nil
+        return openErr
     }
 
     newBase := &DB{
@@ -85,10 +87,12 @@ func StartDb() (*DB, error) {
     decodeErr := json.NewDecoder(dataFile).Decode(&newBase.ListedData)
     if decodeErr != nil {
         log.Panicln(decodeErr)
-        return nil, nil
+        return decodeErr
     }
 
-    fmt.Println(newBase)
-    return newBase, nil
+    Database = newBase
+
+    fmt.Println(Database)
+    return nil
 }
 
