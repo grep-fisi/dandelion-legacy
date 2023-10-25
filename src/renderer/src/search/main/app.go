@@ -18,8 +18,8 @@ func main() {
 
 	http.HandleFunc("/", server.GeneralHandle)
 	http.HandleFunc("/media/", server.StaticServe)
-	http.HandleFunc("/api", server.QueryPost)
 	http.HandleFunc("/api/", server.QueryPost)
+	http.HandleFunc("/upload/", server.UploadData)
 
 	log.Println("Opening server @" + port)
 	serverErr := http.ListenAndServe(":"+port, nil)
