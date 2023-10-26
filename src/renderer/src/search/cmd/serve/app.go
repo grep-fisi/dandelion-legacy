@@ -1,8 +1,8 @@
 package main
 
 import (
-	"grap/src/renderer/src/search/db"
-	"grap/src/renderer/src/search/handlers"
+	"dandelion/src/renderer/src/search/db"
+	"dandelion/src/renderer/src/search/server"
 	"log"
 	"net/http"
 	// test data package

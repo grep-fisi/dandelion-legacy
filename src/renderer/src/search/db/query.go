@@ -3,8 +3,8 @@ package db
 import (
 	"errors"
 	"fmt"
-	parser "grap/src/renderer/src/search/pkg/logic-parser/ast"
-	"grap/src/renderer/src/search/pkg/logic-parser/parseUtils"
+	parser "dandelion/src/renderer/src/search/logic-parser/ast"
+	"dandelion/src/renderer/src/search/logic-parser/parseUtils"
 	"strings"
 )
 

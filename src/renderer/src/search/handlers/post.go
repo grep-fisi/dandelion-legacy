@@ -2,7 +2,7 @@ package handlers
 
 import (
 	"encoding/json"
-	"grap/src/renderer/src/search/db"
+	"dandelion/src/renderer/src/search/db"
 	"log"
 	"net/http"
 	"strings"
