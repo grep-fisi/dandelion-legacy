@@ -19,7 +19,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             '#373A40',
             '#353535', // idle nodes & links
             '#252525',
-            '#252525', // background
+            '#1c1c1c', // background
             '#141517',
             '#101113'
           ],

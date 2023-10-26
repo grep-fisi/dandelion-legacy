@@ -34,6 +34,7 @@ export default function App() {
     function handleKeyDown(event) {
       if (event.ctrlKey && event.key === 'f') {
         toggle()
+        event.preventDefault()
       } else if (event.key === 'Escape' && opened) {
         close()
       } else if (event.key === 'Enter' && opened) {
