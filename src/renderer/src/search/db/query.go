@@ -3,10 +3,25 @@ package db
 import (
 	"errors"
 	"fmt"
-	parser "grap/src/renderer/src/search/logic-parser/ast"
-	"grap/src/renderer/src/search/logic-parser/parseUtils"
+	parser "grap/src/renderer/src/search/pkg/logic-parser/ast"
+	"grap/src/renderer/src/search/pkg/logic-parser/parseUtils"
 	"strings"
 )
+
+type Register struct {
+    Path string     `json:"name"`
+    Sets []string   `json:"tags"`
+}
+
+type Query struct {
+    Sets []string   `json:"sets"`
+    Expr string     `json:"expr"`
+}
+
+type DB struct {
+    ListedData []Register `json:"files"`
+}
+
 
 func (database *DB) Query(queryObj Query) ([]Register, error) {
 	var returnable []Register
