@@ -2,7 +2,7 @@ package main
 
 import (
 	"dandelion/src/renderer/src/search/db"
-	"dandelion/src/renderer/src/search/server"
+	"dandelion/src/renderer/src/search/handlers"
 	"log"
 	"net/http"
 	// test data package
@@ -24,6 +24,6 @@ func main() {
 	log.Println("Opening server @" + port)
 	serverErr := http.ListenAndServe(":"+port, nil)
 	if serverErr != nil {
-		log.Println(serverErr)
+        log.Println("fatal error at server init:" + serverErr.Error())
 	}
 }
